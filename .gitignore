@@ -1,0 +1,4 @@
+replacements.js
+node_modules/
+*.xml
+!template.xml

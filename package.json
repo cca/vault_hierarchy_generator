@@ -1,0 +1,15 @@
+{
+  "name": "vault-ext-rev-hier",
+  "version": "1.0.0",
+  "description": "create VAULT external review hierarchy from template",
+  "main": "index.js",
+  "keywords": [
+    "EQUELLA", "hierarchy", "template"
+  ],
+  "author": "phette23 <phette23@gmail.com> (http://phette.net)",
+  "license": "ECL-2.0",
+  "dependencies": {
+    "rc": "^1.1.6",
+    "replacestream": "^4.0.0"
+  }
+}
