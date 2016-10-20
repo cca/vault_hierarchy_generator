@@ -176,7 +176,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_REVIEWER_UUID OR R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_REVIEWER_UUID OR R:TPL_ADMIN_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -304,7 +304,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -318,7 +318,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:TPL_PROGRAM_ADMIN_UUID OR </who>
+                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:TPL_ADMIN_UUID OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -446,7 +446,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -460,7 +460,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -529,7 +529,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:TPL_PROGRAM_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -657,7 +657,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -671,7 +671,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -807,7 +807,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -821,7 +821,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -949,7 +949,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -963,7 +963,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -1159,7 +1159,7 @@
                         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
                         <who>R:TPL_REVIEWER_UUID R:98058527-dcc9-4a65-8f11-f844d335ffaf OR
                         R:TPL_WORK_STUDY_UUID OR
-                        R:TPL_DIVISION_ADMIN_UUID OR R:TPL_PROGRAM_ADMIN_UUID OR </who>
+                        R:TPL_DIVISION_ADMIN_UUID OR R:TPL_ADMIN_UUID OR </who>
                         <postfix></postfix>
                       </com.tle.common.security.TargetListEntry>
                     </entries>
@@ -1173,7 +1173,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -1303,7 +1303,7 @@
                         <granted>true</granted>
                         <override>false</override>
                         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                        <who>R:TPL_PROGRAM_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                        <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                         <postfix></postfix>
                       </com.tle.common.security.TargetListEntry>
                     </entries>
@@ -1317,7 +1317,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -1447,7 +1447,7 @@
                         <granted>true</granted>
                         <override>false</override>
                         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                        <who>R:TPL_PROGRAM_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                        <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
                         <postfix></postfix>
                       </com.tle.common.security.TargetListEntry>
                     </entries>
@@ -1461,7 +1461,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -1591,7 +1591,7 @@
                         <granted>true</granted>
                         <override>false</override>
                         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                        <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf  R:TPL_PROGRAM_ADMIN_UUID OR
+                        <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf  R:TPL_ADMIN_UUID OR
                         R:TPL_WORK_STUDY_UUID OR
                         R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                         <postfix></postfix>
@@ -1607,7 +1607,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -1621,7 +1621,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -1813,7 +1813,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -1949,7 +1949,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2079,7 +2079,7 @@
                         <granted>true</granted>
                         <override>false</override>
                         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                        <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_DIVISION_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_PROGRAM_ADMIN_UUID OR </who>
+                        <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_DIVISION_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_ADMIN_UUID OR </who>
                         <postfix></postfix>
                       </com.tle.common.security.TargetListEntry>
                     </entries>
@@ -2093,7 +2093,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_PROGRAM_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                    <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2229,7 +2229,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_PROGRAM_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                    <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2365,7 +2365,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_PROGRAM_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                    <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2379,7 +2379,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -2507,7 +2507,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_PROGRAM_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                    <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2521,7 +2521,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:TPL_PROGRAM_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -2657,7 +2657,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_DIVISION_ADMIN_UUID R:98058527-dcc9-4a65-8f11-f844d335ffaf OR R:TPL_REVIEWER_UUID OR R:TPL_PROGRAM_ADMIN_UUID OR </who>
+                    <who>R:TPL_DIVISION_ADMIN_UUID R:98058527-dcc9-4a65-8f11-f844d335ffaf OR R:TPL_REVIEWER_UUID OR R:TPL_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2671,7 +2671,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -2799,7 +2799,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2813,7 +2813,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -2827,7 +2827,7 @@
             <granted>true</granted>
             <override>false</override>
             <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-            <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+            <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
             <postfix></postfix>
           </com.tle.common.security.TargetListEntry>
         </entries>
@@ -2841,7 +2841,7 @@
         <granted>true</granted>
         <override>false</override>
         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-        <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_DIVISION_ADMIN_UUID OR R:TPL_PROGRAM_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR </who>
+        <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_DIVISION_ADMIN_UUID OR R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR </who>
         <postfix></postfix>
       </com.tle.common.security.TargetListEntry>
     </entries>

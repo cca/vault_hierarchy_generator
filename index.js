@@ -24,7 +24,7 @@ fs.createReadStream(template)
     .pipe(replaceStream('TPL_COLLECTION_UUID', replacements['collection-uuid']))
     .pipe(replaceStream('TPL_PROGRAM', replacements.program))
     .pipe(replaceStream('TPL_SEMESTER', replacements.semester))
-    .pipe(replaceStream('TPL_PROGRAM_ADMIN_UUID', replacements['program-admin-role-uuid']))
+    .pipe(replaceStream('TPL_ADMIN_UUID', replacements['admin-role-uuid']))
     .pipe(replaceStream('TPL_DIVISION_ADMIN_UUID', replacements['division-admin-role-uuid']))
     .pipe(replaceStream('TPL_REVIEWER_UUID', replacements['external-reviewer-role-uuid']))
     // work study may not exist, only tricky one

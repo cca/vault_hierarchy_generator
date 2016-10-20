@@ -6,9 +6,9 @@ module.exports = {
     'semester': 'Spring 2017',
 
     // program/division role UUIDs
+    'admin-role-uuid': 'f3882184-5282-44bd-a7f6-72192a0e46da',
     'division-admin-role-uuid': 'f3882184-44bd-44bd-a7f6-72192a0e46da',
     'external-reviewer-role-uuid': '72192a0e-5282-5282-a7f6-f3882184',
-    'program-admin-role-uuid': 'f3882184-5282-44bd-a7f6-72192a0e46da',
     // can be left null if no work study role exists
-    'program-work-study-uuid': '72192a0e-5282-44bd-5282-72192a0e46da',
+    'work-study-uuid': '72192a0e-5282-44bd-5282-72192a0e46da',
 }
