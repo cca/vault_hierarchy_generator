@@ -28,7 +28,7 @@ fs.createReadStream(template)
     .pipe(replaceStream('TPL_DIVISION_ADMIN_UUID', replacements['division-admin-role-uuid']))
     .pipe(replaceStream('TPL_REVIEWER_UUID', replacements['external-reviewer-role-uuid']))
     // work study may not exist, only tricky one
-    .pipe(replaceStream(' OR R:TPL_WORK_STUDY_UUID', (match) => {
+    .pipe(replaceStream('R:TPL_WORK_STUDY_UUID OR', (match) => {
         // return OR R:UUID & empty string if not (delete the work study role from template)
         return replacements['work-study-uuid'] ? ' OR R:' + replacements['work-study-uuid'] : ''
     }))
