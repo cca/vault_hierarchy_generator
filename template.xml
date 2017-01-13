@@ -1,7 +1,7 @@
 <com.tle.beans.hierarchy.ExportedHierarchyNode>
   <topic>
-    <id>8243773</id>
-    <uuid>dbcb459e-98cf-4467-9056-1091b991fee4</uuid>
+    <id>8715533</id>
+    <uuid>83dcff5b-e254-436e-8092-fe0fa8260bc4</uuid>
     <institution>
       <id>1165188</id>
       <uniqueId>0</uniqueId>
@@ -26,7 +26,7 @@
         <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
       </com.tle.beans.hierarchy.HierarchyTopic>
     </allParents>
-    <listPosition>11</listPosition>
+    <listPosition>9</listPosition>
     <keyResources/>
     <showResults>true</showResults>
     <freetext></freetext>
@@ -41,12 +41,12 @@
     <inhIdefs/>
     <inhSchemas/>
     <name>
-      <id>8243938</id>
+      <id>8715727</id>
       <strings>
         <entry>
           <string>en_US</string>
           <com.tle.beans.entity.LanguageString>
-            <id>8243939</id>
+            <id>8715728</id>
             <locale>en_US</locale>
             <priority>2</priority>
             <text>TPL_PROGRAM</text>
@@ -61,8 +61,8 @@
   <children>
     <com.tle.beans.hierarchy.ExportedHierarchyNode>
       <topic>
-        <id>8243778</id>
-        <uuid>b4878b47-f43c-486e-86bd-95c3c43a84f5</uuid>
+        <id>8715538</id>
+        <uuid>8459f785-3552-4028-bc24-4c96658dfbff</uuid>
         <institution>
           <id>1165188</id>
           <uniqueId>0</uniqueId>
@@ -96,12 +96,12 @@
         <inhIdefs/>
         <inhSchemas/>
         <name>
-          <id>8243779</id>
+          <id>8715539</id>
           <strings>
             <entry>
               <string>en_US</string>
               <com.tle.beans.entity.LanguageString>
-                <id>8243780</id>
+                <id>8715540</id>
                 <locale>en_US</locale>
                 <priority>2</priority>
                 <text>TPL_SEMESTER External Review TPL_PROGRAM</text>
@@ -116,8 +116,8 @@
       <children>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8243783</id>
-            <uuid>c67d7196-d385-4739-9e2f-420713402c2b</uuid>
+            <id>8715543</id>
+            <uuid>011a4386-3214-461c-a14d-6f738eab470a</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -152,12 +152,12 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8244221</id>
+              <id>8715544</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8244222</id>
+                    <id>8715545</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>Final Review Reports</text>
@@ -172,8 +172,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8244206</id>
-                <uuid>3f9f64f4-8d9c-430f-94be-73650cc75065</uuid>
+                <id>8715548</id>
+                <uuid>67806916-7d8e-459e-b379-3e08592012e5</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -210,12 +210,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/local/courseWorkWrapper/workType</virtualisationPath>
                 <name>
-                  <id>8244211</id>
+                  <id>8715549</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8244212</id>
+                        <id>8715550</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -249,8 +249,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8243788</id>
-            <uuid>87087c53-af09-4af1-b451-ee57e8284a80</uuid>
+            <id>8715551</id>
+            <uuid>c14bf619-b780-4cc1-804f-5cd68eafa47e</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -285,12 +285,12 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8243789</id>
+              <id>8715552</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8243790</id>
+                    <id>8715553</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>1. Program mission statement</text>
@@ -305,8 +305,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243793</id>
-                <uuid>0336d0c7-91fa-41dc-b8fc-8d85b38d0cfb</uuid>
+                <id>8715556</id>
+                <uuid>b465f0b0-6cbe-47fe-9319-89607035f333</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -344,12 +344,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                 <name>
-                  <id>8243794</id>
+                  <id>8715557</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243795</id>
+                        <id>8715558</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -391,150 +391,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8243797</id>
-            <uuid>c6b7b0a4-747a-4781-9051-2815bd79ce85</uuid>
-            <institution>
-              <id>1165188</id>
-              <uniqueId>0</uniqueId>
-              <quota>0.0</quota>
-              <enabled>true</enabled>
-            </institution>
-            <parent reference="../../../../topic"/>
-            <allParents>
-              <com.tle.beans.hierarchy.HierarchyTopic>
-                <id>5343319</id>
-                <allParents/>
-                <listPosition>0</listPosition>
-                <showResults>true</showResults>
-                <inheritFreetext>false</inheritFreetext>
-                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
-              </com.tle.beans.hierarchy.HierarchyTopic>
-              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
-              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
-            </allParents>
-            <listPosition>2</listPosition>
-            <keyResources/>
-            <showResults>true</showResults>
-            <freetext></freetext>
-            <inheritFreetext>true</inheritFreetext>
-            <addIdefs>
-              <com.tle.beans.ItemDefinitionScript>
-                <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/courseWorkWrapper/courseWorkTypeSpecific = &apos;Program history&apos;) </script>
-              </com.tle.beans.ItemDefinitionScript>
-            </addIdefs>
-            <addSchemas/>
-            <inhIdefs/>
-            <inhSchemas/>
-            <name>
-              <id>8243798</id>
-              <strings>
-                <entry>
-                  <string>en_US</string>
-                  <com.tle.beans.entity.LanguageString>
-                    <id>8243799</id>
-                    <locale>en_US</locale>
-                    <priority>2</priority>
-                    <text>2. Program history</text>
-                    <bundle reference="../../../.."/>
-                  </com.tle.beans.entity.LanguageString>
-                </entry>
-              </strings>
-            </name>
-            <hideSubtopicsWithNoResults>false</hideSubtopicsWithNoResults>
-            <attributes/>
-          </topic>
-          <children>
-            <com.tle.beans.hierarchy.ExportedHierarchyNode>
-              <topic>
-                <id>8243801</id>
-                <uuid>7d62099d-7c32-4cdd-b11b-74ab9cb97e2f</uuid>
-                <institution>
-                  <id>1165188</id>
-                  <uniqueId>0</uniqueId>
-                  <quota>0.0</quota>
-                  <enabled>true</enabled>
-                </institution>
-                <parent reference="../../../../topic"/>
-                <allParents>
-                  <com.tle.beans.hierarchy.HierarchyTopic>
-                    <id>5343319</id>
-                    <allParents/>
-                    <listPosition>0</listPosition>
-                    <showResults>true</showResults>
-                    <inheritFreetext>false</inheritFreetext>
-                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
-                  </com.tle.beans.hierarchy.HierarchyTopic>
-                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../topic"/>
-                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
-                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
-                </allParents>
-                <listPosition>0</listPosition>
-                <keyResources/>
-                <showResults>true</showResults>
-                <freetext></freetext>
-                <inheritFreetext>true</inheritFreetext>
-                <addIdefs>
-                  <com.tle.beans.ItemDefinitionScript>
-                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                    <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/courseWorkWrapper/courseWorkTypeSpecific = &apos;Program history&apos;) </script>
-                  </com.tle.beans.ItemDefinitionScript>
-                </addIdefs>
-                <addSchemas/>
-                <inhIdefs/>
-                <inhSchemas/>
-                <virtualisationId>contributedValuesVirtualiser</virtualisationId>
-                <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
-                <name>
-                  <id>8243802</id>
-                  <strings>
-                    <entry>
-                      <string>en_US</string>
-                      <com.tle.beans.entity.LanguageString>
-                        <id>8243803</id>
-                        <locale>en_US</locale>
-                        <priority>2</priority>
-                        <text>%s</text>
-                        <bundle reference="../../../.."/>
-                      </com.tle.beans.entity.LanguageString>
-                    </entry>
-                  </strings>
-                </name>
-                <hideSubtopicsWithNoResults>false</hideSubtopicsWithNoResults>
-                <attributes/>
-              </topic>
-              <children/>
-              <targetList>
-                <entries>
-                  <com.tle.common.security.TargetListEntry>
-                    <granted>true</granted>
-                    <override>false</override>
-                    <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
-                    <postfix></postfix>
-                  </com.tle.common.security.TargetListEntry>
-                </entries>
-                <partial>false</partial>
-              </targetList>
-            </com.tle.beans.hierarchy.ExportedHierarchyNode>
-          </children>
-          <targetList>
-            <entries>
-              <com.tle.common.security.TargetListEntry>
-                <granted>true</granted>
-                <override>false</override>
-                <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
-                <postfix></postfix>
-              </com.tle.common.security.TargetListEntry>
-            </entries>
-            <partial>false</partial>
-          </targetList>
-        </com.tle.beans.hierarchy.ExportedHierarchyNode>
-        <com.tle.beans.hierarchy.ExportedHierarchyNode>
-          <topic>
-            <id>8243805</id>
-            <uuid>013c29ff-2f3a-4794-983b-d8d3821404a7</uuid>
+            <id>8715568</id>
+            <uuid>e21da40a-eefb-489a-9aeb-91665039e480</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -569,15 +427,15 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8243806</id>
+              <id>8715762</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8243807</id>
+                    <id>8715763</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>3. Program data portfolio</text>
+                    <text>2. Program data portfolio</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -602,8 +460,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8243810</id>
-            <uuid>e9ced41e-d28d-42cf-b194-afbe75cb8f12</uuid>
+            <id>8715573</id>
+            <uuid>d15ee553-aa5a-4c30-b28e-790ec6e836e0</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -638,15 +496,15 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8243811</id>
+              <id>8715765</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8243812</id>
+                    <id>8715766</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>4. Annual goals documents</text>
+                    <text>3. Annual goals documents</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -658,8 +516,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243814</id>
-                <uuid>7e3c0615-d143-4a08-95cf-fcd9989f7549</uuid>
+                <id>8715577</id>
+                <uuid>323f9225-9a11-4f01-a6de-f9d85d69f4fb</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -697,12 +555,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                 <name>
-                  <id>8243815</id>
+                  <id>8715578</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243816</id>
+                        <id>8715579</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -744,8 +602,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8363237</id>
-            <uuid>c7858b79-e6ed-44f5-9527-5a064a37f450</uuid>
+            <id>8715581</id>
+            <uuid>696b1324-a8d4-4eb4-9997-a5ad422caf3c</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -784,15 +642,15 @@
               </com.tle.beans.SchemaScript>
             </inhSchemas>
             <name>
-              <id>8363311</id>
+              <id>8715771</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8363312</id>
+                    <id>8715772</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>5. Year-end goals reports</text>
+                    <text>4. Year-end goals reports</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -804,8 +662,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8363306</id>
-                <uuid>898163ec-76de-4470-ade5-73d687268080</uuid>
+                <id>8715586</id>
+                <uuid>48d9cc65-06b1-4588-a0b7-6f72f2cf033f</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -851,12 +709,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                 <name>
-                  <id>8363316</id>
+                  <id>8715587</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8363317</id>
+                        <id>8715588</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -898,8 +756,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8243818</id>
-            <uuid>271f8a19-dd19-4cff-b9f8-b40d32ab77a1</uuid>
+            <id>8715590</id>
+            <uuid>210441df-e27b-4498-8991-b0eb47311f97</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -938,15 +796,15 @@
               </com.tle.beans.SchemaScript>
             </inhSchemas>
             <name>
-              <id>8363334</id>
+              <id>8715768</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8363335</id>
+                    <id>8715769</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>6. Annual budget</text>
+                    <text>5. Annual budget</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -958,8 +816,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243822</id>
-                <uuid>6e7c6518-22f5-4648-9542-d064ee6db42e</uuid>
+                <id>8715594</id>
+                <uuid>7789b7b4-4ff2-4d76-a38c-38b400442651</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1001,12 +859,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                 <name>
-                  <id>8243823</id>
+                  <id>8715595</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243824</id>
+                        <id>8715596</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -1048,8 +906,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8243826</id>
-            <uuid>1268531b-0826-4109-8392-4e29f5387991</uuid>
+            <id>8715598</id>
+            <uuid>056912eb-342e-4c27-bd7b-a89ccd08552e</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -1084,15 +942,15 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8363240</id>
+              <id>8715817</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8363241</id>
+                    <id>8715818</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>7. Meeting agendas/minutes</text>
+                    <text>6. Meeting agendas/minutes</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -1104,8 +962,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243830</id>
-                <uuid>55e88e73-392e-4170-81b7-18dda9a6b250</uuid>
+                <id>8715602</id>
+                <uuid>f3648b44-8d1f-45f4-a43d-7c0a0571944d</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1143,12 +1001,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                 <name>
-                  <id>8243831</id>
+                  <id>8715603</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243832</id>
+                        <id>8715604</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -1190,8 +1048,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8243834</id>
-            <uuid>94ed9591-0b6a-4dbd-96bb-633862957149</uuid>
+            <id>8715606</id>
+            <uuid>8c8a7fad-edc6-418b-8beb-747695aae02d</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -1230,15 +1088,15 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8363243</id>
+              <id>8715777</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8363244</id>
+                    <id>8715778</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>8. Curriculum</text>
+                    <text>7. Curriculum</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -1250,8 +1108,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243838</id>
-                <uuid>9849542e-05a9-4384-9ef1-f73f950f227e</uuid>
+                <id>8715610</id>
+                <uuid>a6a130d6-c76f-46ab-ae3a-abf057c1d78a</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1291,12 +1149,12 @@
                 </inhIdefs>
                 <inhSchemas/>
                 <name>
-                  <id>8243839</id>
+                  <id>8715611</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243840</id>
+                        <id>8715612</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Syllabi</text>
@@ -1311,8 +1169,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8243842</id>
-                    <uuid>a35b5de4-a869-4227-a1b3-78ab6c82e7d1</uuid>
+                    <id>8715614</id>
+                    <uuid>c6cad77a-5649-42e7-b508-a3895bd36ebd</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -1351,12 +1209,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/local/courseInfo/courseName</virtualisationPath>
                     <name>
-                      <id>8243843</id>
+                      <id>8715615</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8243844</id>
+                            <id>8715616</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -1398,8 +1256,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243847</id>
-                <uuid>a19afc43-7fa9-4be3-a3c5-6975868771a3</uuid>
+                <id>8715619</id>
+                <uuid>db0a299a-d0ff-43e8-8800-1cd805a517e1</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1435,12 +1293,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8244250</id>
+                  <id>8715620</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8244251</id>
+                        <id>8715621</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Major requirements</text>
@@ -1455,8 +1313,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8243851</id>
-                    <uuid>494be7e5-e63c-4b62-8f47-d3e5100f7596</uuid>
+                    <id>8715623</id>
+                    <uuid>2d94b432-12be-445f-ae1a-de2a9491ac5b</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -1495,12 +1353,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8243852</id>
+                      <id>8715624</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8243853</id>
+                            <id>8715625</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -1542,8 +1400,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243856</id>
-                <uuid>58157219-6d27-46e5-b148-88575a10914d</uuid>
+                <id>8715628</id>
+                <uuid>62adc09e-5323-4610-96b0-5f6736f54ab9</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1579,12 +1437,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8243857</id>
+                  <id>8715629</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243858</id>
+                        <id>8715630</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Sequence charts</text>
@@ -1599,8 +1457,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8243860</id>
-                    <uuid>903829ab-336f-4efd-9a73-8fb5527175cd</uuid>
+                    <id>8715632</id>
+                    <uuid>e790250f-cc02-40a6-ac93-e599dcf9cbdb</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -1639,12 +1497,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8243861</id>
+                      <id>8715633</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8243862</id>
+                            <id>8715634</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -1686,8 +1544,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243864</id>
-                <uuid>c6169efe-fc5a-47c2-b403-882b81296242</uuid>
+                <id>8715636</id>
+                <uuid>9665fa44-9e46-4371-bc86-e05bafc7634b</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1723,12 +1581,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8243865</id>
+                  <id>8715637</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243866</id>
+                        <id>8715638</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Course schedules</text>
@@ -1743,8 +1601,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8243868</id>
-                    <uuid>84ecff11-2dea-4545-9501-20652b6eddf9</uuid>
+                    <id>8715640</id>
+                    <uuid>96ef83a7-53ef-428c-8ce5-55ef4d7ba9c7</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -1783,12 +1641,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8243869</id>
+                      <id>8715641</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8243870</id>
+                            <id>8715642</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -1844,8 +1702,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8244224</id>
-            <uuid>5c72c4a6-bf3c-4a7c-a5b6-2130a409527c</uuid>
+            <id>8715644</id>
+            <uuid>3c2f5fe6-acc2-48dd-bc0b-bbed2e2c4bff</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -1873,11 +1731,11 @@
             <addIdefs>
               <com.tle.beans.ItemDefinitionScript>
                 <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                <script>/xml/local/courseWorkWrapper/courseWorkType = &apos;Course work&apos; OR /xml/local/courseWorkWrapper/courseWorkType = &apos;Senior packet&apos; </script>
+                <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos; AND (/xml/local/courseWorkWrapper/courseWorkType = &apos;Course work&apos; OR /xml/local/courseWorkWrapper/courseWorkType = &apos;Senior packet&apos;)) </script>
               </com.tle.beans.ItemDefinitionScript>
               <com.tle.beans.ItemDefinitionScript>
                 <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="ecee0984-73fd-4a89-af1d-3d9b67af92d8"/>
-                <script>/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; </script>
+                <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos;) </script>
               </com.tle.beans.ItemDefinitionScript>
             </addIdefs>
             <addSchemas/>
@@ -1888,15 +1746,15 @@
               </com.tle.beans.SchemaScript>
             </inhSchemas>
             <name>
-              <id>8363246</id>
+              <id>8716046</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8363247</id>
+                    <id>8716047</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>9. Student Work</text>
+                    <text>8. Student Work</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -1908,8 +1766,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8244269</id>
-                <uuid>74770066-a3af-4151-b5c5-fb6aaa8942a6</uuid>
+                <id>8715648</id>
+                <uuid>649b7bed-5bc6-417b-8168-9cb051f19115</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1938,7 +1796,7 @@
                 <addIdefs>
                   <com.tle.beans.ItemDefinitionScript>
                     <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                    <script>/xml/local/courseWorkWrapper/courseWorkType = &apos;Course work&apos; </script>
+                    <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos; AND /xml/local/courseWorkWrapper/courseWorkType = &apos;Course work&apos;) </script>
                   </com.tle.beans.ItemDefinitionScript>
                 </addIdefs>
                 <addSchemas/>
@@ -1953,12 +1811,12 @@
                   </com.tle.beans.SchemaScript>
                 </inhSchemas>
                 <name>
-                  <id>8359037</id>
+                  <id>8715927</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8359038</id>
+                        <id>8715928</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>General Course Work</text>
@@ -1986,8 +1844,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8244272</id>
-                <uuid>bacd623a-5017-4520-88dc-b37183cf5a20</uuid>
+                <id>8715653</id>
+                <uuid>5a4d0e4c-14bd-4242-941c-daccfb2061ab</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2015,28 +1873,28 @@
                 <inheritFreetext>true</inheritFreetext>
                 <addIdefs>
                   <com.tle.beans.ItemDefinitionScript>
+                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+                    <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos; AND /xml/local/courseWorkWrapper/courseWorkType = &apos;Junior Review&apos;) </script>
+                  </com.tle.beans.ItemDefinitionScript>
+                  <com.tle.beans.ItemDefinitionScript>
                     <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="ecee0984-73fd-4a89-af1d-3d9b67af92d8"/>
-                    <script>/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; </script>
+                    <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos;) </script>
                   </com.tle.beans.ItemDefinitionScript>
                 </addIdefs>
                 <addSchemas/>
-                <inhIdefs>
-                  <com.tle.beans.ItemDefinitionScript>
-                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="ecee0984-73fd-4a89-af1d-3d9b67af92d8"/>
-                  </com.tle.beans.ItemDefinitionScript>
-                </inhIdefs>
+                <inhIdefs/>
                 <inhSchemas>
                   <com.tle.beans.SchemaScript>
                     <entity entityclass="com.tle.beans.entity.Schema" uuid="434fe9a2-2c8f-561c-d1f2-bbd32317c0ad"/>
                   </com.tle.beans.SchemaScript>
                 </inhSchemas>
                 <name>
-                  <id>8359065</id>
+                  <id>8716229</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8359066</id>
+                        <id>8716230</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Junior Review</text>
@@ -2064,8 +1922,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8244275</id>
-                <uuid>076f4eb3-0441-4bf7-924e-fec72bfb93fd</uuid>
+                <id>8715657</id>
+                <uuid>7df2a0f1-75e3-4acf-9ef6-eae112ab2fd9</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2094,7 +1952,7 @@
                 <addIdefs>
                   <com.tle.beans.ItemDefinitionScript>
                     <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                    <script>/xml/local/courseWorkWrapper/courseWorkType = &apos;Senior packet&apos; </script>
+                    <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos; AND /xml/local/courseWorkWrapper/courseWorkType = &apos;Senior packet&apos;) </script>
                   </com.tle.beans.ItemDefinitionScript>
                 </addIdefs>
                 <addSchemas/>
@@ -2109,12 +1967,12 @@
                   </com.tle.beans.SchemaScript>
                 </inhSchemas>
                 <name>
-                  <id>8359102</id>
+                  <id>8715933</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8359103</id>
+                        <id>8715934</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Senior Packets</text>
@@ -2156,8 +2014,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8243872</id>
-            <uuid>b0665c6a-ca3c-49e5-9db4-0b4108da17aa</uuid>
+            <id>8715661</id>
+            <uuid>0cf1e60d-4094-4a55-a74c-73e593c02985</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -2192,15 +2050,15 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8363249</id>
+              <id>8715783</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8363250</id>
+                    <id>8715784</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>10. Learning outcomes and learning assessment</text>
+                    <text>9. Learning outcomes and learning assessment</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -2212,8 +2070,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243876</id>
-                <uuid>88ea6d75-de00-4939-a00e-d09f3984734d</uuid>
+                <id>8715665</id>
+                <uuid>7523e250-9883-407d-9d77-ce402a41c032</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2249,12 +2107,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8243877</id>
+                  <id>8715666</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243878</id>
+                        <id>8715667</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Program learning outcomes document</text>
@@ -2269,8 +2127,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8243880</id>
-                    <uuid>5a6dd71c-ffc1-4ee5-8a6c-f8294e3e6dc1</uuid>
+                    <id>8715669</id>
+                    <uuid>fa38168d-2ecf-485e-bfbf-e8c02c877f11</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -2309,12 +2167,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8243881</id>
+                      <id>8715670</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8243882</id>
+                            <id>8715671</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -2348,8 +2206,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243906</id>
-                <uuid>3aeb7ac0-cdac-4458-a559-4753194ff195</uuid>
+                <id>8715672</id>
+                <uuid>376094b1-d0a0-49a2-9869-6676f47c9c7b</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2385,12 +2243,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8286010</id>
+                  <id>8715673</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8286011</id>
+                        <id>8715674</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Year-end Program Assessment Reports</text>
@@ -2405,8 +2263,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8243910</id>
-                    <uuid>0520e736-ef34-42d1-b343-3e664eb7964e</uuid>
+                    <id>8715676</id>
+                    <uuid>1c7ac112-6e9b-4623-b4d0-9cb66ab7e561</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -2445,12 +2303,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8243911</id>
+                      <id>8715677</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8243912</id>
+                            <id>8715678</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -2484,8 +2342,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243883</id>
-                <uuid>590dc288-079f-49b2-806b-a186e003146f</uuid>
+                <id>8715679</id>
+                <uuid>1df11692-e166-44be-8980-e37f3b62961e</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2521,12 +2379,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8243884</id>
+                  <id>8715680</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243885</id>
+                        <id>8715681</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Current learning outcomes matrix</text>
@@ -2541,8 +2399,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8243887</id>
-                    <uuid>7a1d566e-20d3-4253-8b6e-d507cc6e8e5a</uuid>
+                    <id>8715683</id>
+                    <uuid>53da83cd-d1b6-47e1-b9c4-14b0d7ee5d69</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -2581,12 +2439,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8243888</id>
+                      <id>8715684</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8243889</id>
+                            <id>8715685</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -2620,8 +2478,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243890</id>
-                <uuid>3a656e95-79bb-45be-9e3c-368d9a4580fc</uuid>
+                <id>8715686</id>
+                <uuid>e97b3194-3f4e-46b8-8848-c60c045123f1</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2657,12 +2515,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8243891</id>
+                  <id>8715687</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243892</id>
+                        <id>8715688</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Level review materials</text>
@@ -2677,8 +2535,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8243894</id>
-                    <uuid>11128d97-a13a-4d6f-9ab0-0518336da4e6</uuid>
+                    <id>8715690</id>
+                    <uuid>a5efb300-e7c5-4c2d-a532-a7efb219aa1e</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -2717,12 +2575,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8243895</id>
+                      <id>8715691</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8243896</id>
+                            <id>8715692</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -2764,8 +2622,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243899</id>
-                <uuid>1dc1a2ac-cb50-491e-8ac6-fa8d229c484b</uuid>
+                <id>8715695</id>
+                <uuid>ffc4dc22-5435-426f-9b83-a9cd0d05b845</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2801,12 +2659,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8243900</id>
+                  <id>8715696</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243901</id>
+                        <id>8715697</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Other assessment data</text>
@@ -2821,8 +2679,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8243903</id>
-                    <uuid>a0fa0835-967c-463f-86ff-39ab1a32db81</uuid>
+                    <id>8715699</id>
+                    <uuid>0130345e-caae-4e7c-9948-fdbca21e926c</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -2861,12 +2719,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8243904</id>
+                      <id>8715700</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8243905</id>
+                            <id>8715701</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -2914,8 +2772,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8243913</id>
-            <uuid>5ff956ca-257a-4c0d-a7f4-db49cded2b2c</uuid>
+            <id>8715702</id>
+            <uuid>ec95e390-5fda-4a46-9366-ae3d4656da20</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -2950,15 +2808,15 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8363252</id>
+              <id>8715786</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8363253</id>
+                    <id>8715787</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>11. Faculty</text>
+                    <text>10. Faculty</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -2970,8 +2828,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243917</id>
-                <uuid>aceefad7-3927-47ea-837a-6afa8f7e4d70</uuid>
+                <id>8715706</id>
+                <uuid>e77f923d-e4bc-440d-8a69-337fbdc30c59</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -3009,12 +2867,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                 <name>
-                  <id>8243918</id>
+                  <id>8715707</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243919</id>
+                        <id>8715708</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -3056,8 +2914,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8243921</id>
-            <uuid>e116ceca-d75c-4ac8-a2d0-42f53fcdb32a</uuid>
+            <id>8715710</id>
+            <uuid>508b21b6-e987-41ac-84b5-1cb83174bb50</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -3096,15 +2954,15 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8363255</id>
+              <id>8715795</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8363256</id>
+                    <id>8715796</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>12. Lectures &amp; Events</text>
+                    <text>11. Lectures &amp; Events</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -3116,8 +2974,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243925</id>
-                <uuid>9b2521e1-e07b-455b-b8fe-eb2a5352ed9d</uuid>
+                <id>8715714</id>
+                <uuid>194e364c-ba49-4030-b484-1a099fe4c0ac</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -3159,12 +3017,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/name/namePart</virtualisationPath>
                 <name>
-                  <id>8243926</id>
+                  <id>8715715</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243927</id>
+                        <id>8715716</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -3206,8 +3064,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8243930</id>
-            <uuid>7d9d6fb3-8296-438e-a6c2-27ae9af3d833</uuid>
+            <id>8715719</id>
+            <uuid>6a4843e6-bcdb-4edf-b56f-f96954126a77</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -3242,15 +3100,15 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8363258</id>
+              <id>8715792</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8363259</id>
+                    <id>8715793</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>13. Alumni Successes</text>
+                    <text>12. Alumni Successes</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -3262,8 +3120,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8243934</id>
-                <uuid>b0877979-ee72-448b-ad0c-5a48d95d637c</uuid>
+                <id>8715723</id>
+                <uuid>bc78deb5-02b0-4d31-aaba-29798e0d7fd8</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -3301,12 +3159,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/name/namePart</virtualisationPath>
                 <name>
-                  <id>8243935</id>
+                  <id>8715724</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8243936</id>
+                        <id>8715725</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
