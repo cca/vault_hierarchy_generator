@@ -24,12 +24,13 @@ fs.createReadStream(template)
     .pipe(replaceStream('TPL_COLLECTION_UUID', replacements['collection-uuid']))
     .pipe(replaceStream('TPL_PROGRAM', replacements.program))
     .pipe(replaceStream('TPL_SEMESTER', replacements.semester))
-    .pipe(replaceStream('TPL_ADMIN_UUID', replacements['admin-role-uuid']))
-    .pipe(replaceStream('TPL_DIVISION_ADMIN_UUID', replacements['division-admin-role-uuid']))
-    .pipe(replaceStream('TPL_REVIEWER_UUID', replacements['external-reviewer-role-uuid']))
-    // work study may not exist, only tricky one
-    .pipe(replaceStream('R:TPL_WORK_STUDY_UUID OR', (match) => {
-        // return OR R:UUID & empty string if not (delete the work study role from template)
-        return replacements['work-study-uuid'] ? ' OR R:' + replacements['work-study-uuid'] : ''
+    // do all role UUIDs replacements in one fell swoop
+    .pipe(replaceStream('TPL_WHO', (match) => {
+        var acl = `R:${replacements['admin-role-uuid']} R:${replacements['college-admin-uuid']} OR R:${replacements['division-admin-role-uuid']} OR R:${replacements['external-reviewer-role-uuid']} OR `
+        // may not have a work study UUID
+        if (replacements['work-study-uuid']) {
+            acl += `R:${replacements['work-study-uuid']} OR `
+        }
+        return acl
     }))
     .pipe(process.stdout)

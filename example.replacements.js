@@ -1,4 +1,6 @@
 module.exports = {
+    // this is always the same
+    'college-admin-uuid': '98058527-dcc9-4a65-8f11-f844d335ffaf',
     // external review metadata
     'collection-uuid': '8faafb5c-7617-4c17-80f7-b9db9b0fd06f',
     'program': 'Jewelry / Metal Arts',
