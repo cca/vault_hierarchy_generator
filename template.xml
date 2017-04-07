@@ -1,7 +1,7 @@
 <com.tle.beans.hierarchy.ExportedHierarchyNode>
   <topic>
-    <id>8715533</id>
-    <uuid>83dcff5b-e254-436e-8092-fe0fa8260bc4</uuid>
+    <id>8365962</id>
+    <uuid>78b0f512-8623-4a46-9f56-ae268f304b9e</uuid>
     <institution>
       <id>1165188</id>
       <uniqueId>0</uniqueId>
@@ -26,7 +26,7 @@
         <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
       </com.tle.beans.hierarchy.HierarchyTopic>
     </allParents>
-    <listPosition>9</listPosition>
+    <listPosition>8</listPosition>
     <keyResources/>
     <showResults>true</showResults>
     <freetext></freetext>
@@ -41,12 +41,12 @@
     <inhIdefs/>
     <inhSchemas/>
     <name>
-      <id>8715727</id>
+      <id>8366156</id>
       <strings>
         <entry>
           <string>en_US</string>
           <com.tle.beans.entity.LanguageString>
-            <id>8715728</id>
+            <id>8366157</id>
             <locale>en_US</locale>
             <priority>2</priority>
             <text>TPL_PROGRAM</text>
@@ -61,8 +61,8 @@
   <children>
     <com.tle.beans.hierarchy.ExportedHierarchyNode>
       <topic>
-        <id>8715538</id>
-        <uuid>8459f785-3552-4028-bc24-4c96658dfbff</uuid>
+        <id>8365967</id>
+        <uuid>74e0eb4e-554b-4251-8cb4-0d8eab5b913c</uuid>
         <institution>
           <id>1165188</id>
           <uniqueId>0</uniqueId>
@@ -96,12 +96,12 @@
         <inhIdefs/>
         <inhSchemas/>
         <name>
-          <id>8715539</id>
+          <id>8365968</id>
           <strings>
             <entry>
               <string>en_US</string>
               <com.tle.beans.entity.LanguageString>
-                <id>8715540</id>
+                <id>8365969</id>
                 <locale>en_US</locale>
                 <priority>2</priority>
                 <text>TPL_SEMESTER External Review TPL_PROGRAM</text>
@@ -116,8 +116,8 @@
       <children>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715543</id>
-            <uuid>011a4386-3214-461c-a14d-6f738eab470a</uuid>
+            <id>8365972</id>
+            <uuid>d8115edb-c786-40f7-bba8-b9cb3de46e5c</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -152,12 +152,12 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8715544</id>
+              <id>8365973</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8715545</id>
+                    <id>8365974</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>Final Review Reports</text>
@@ -172,8 +172,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715548</id>
-                <uuid>67806916-7d8e-459e-b379-3e08592012e5</uuid>
+                <id>8365977</id>
+                <uuid>36272e79-92ca-441a-9692-cbd399eb2d71</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -210,12 +210,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/local/courseWorkWrapper/workType</virtualisationPath>
                 <name>
-                  <id>8715549</id>
+                  <id>8365978</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715550</id>
+                        <id>8365979</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -240,7 +240,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_REVIEWER_UUID OR R:TPL_ADMIN_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -249,8 +249,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715551</id>
-            <uuid>c14bf619-b780-4cc1-804f-5cd68eafa47e</uuid>
+            <id>8365980</id>
+            <uuid>636e9393-7a5f-4b19-892b-d27030557cb5</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -285,12 +285,12 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8715552</id>
+              <id>8365981</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8715553</id>
+                    <id>8365982</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>1. Program mission statement</text>
@@ -305,8 +305,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715556</id>
-                <uuid>b465f0b0-6cbe-47fe-9319-89607035f333</uuid>
+                <id>8365985</id>
+                <uuid>c0666fdd-d6c1-4716-a206-82ede4511bc1</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -344,12 +344,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                 <name>
-                  <id>8715557</id>
+                  <id>8365986</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715558</id>
+                        <id>8365987</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -368,7 +368,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -382,7 +382,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:TPL_ADMIN_UUID OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -391,8 +391,150 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715568</id>
-            <uuid>e21da40a-eefb-489a-9aeb-91665039e480</uuid>
+            <id>8365989</id>
+            <uuid>029251c0-a713-47ef-afb7-1cba948f675e</uuid>
+            <institution>
+              <id>1165188</id>
+              <uniqueId>0</uniqueId>
+              <quota>0.0</quota>
+              <enabled>true</enabled>
+            </institution>
+            <parent reference="../../../../topic"/>
+            <allParents>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>5343319</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+            </allParents>
+            <listPosition>2</listPosition>
+            <keyResources/>
+            <showResults>true</showResults>
+            <freetext></freetext>
+            <inheritFreetext>true</inheritFreetext>
+            <addIdefs>
+              <com.tle.beans.ItemDefinitionScript>
+                <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+                <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/courseWorkWrapper/courseWorkTypeSpecific = &apos;Program history&apos;) </script>
+              </com.tle.beans.ItemDefinitionScript>
+            </addIdefs>
+            <addSchemas/>
+            <inhIdefs/>
+            <inhSchemas/>
+            <name>
+              <id>8365990</id>
+              <strings>
+                <entry>
+                  <string>en_US</string>
+                  <com.tle.beans.entity.LanguageString>
+                    <id>8365991</id>
+                    <locale>en_US</locale>
+                    <priority>2</priority>
+                    <text>2. Program history</text>
+                    <bundle reference="../../../.."/>
+                  </com.tle.beans.entity.LanguageString>
+                </entry>
+              </strings>
+            </name>
+            <hideSubtopicsWithNoResults>false</hideSubtopicsWithNoResults>
+            <attributes/>
+          </topic>
+          <children>
+            <com.tle.beans.hierarchy.ExportedHierarchyNode>
+              <topic>
+                <id>8365993</id>
+                <uuid>1b3b6888-a285-44a0-995b-2cf401e09edc</uuid>
+                <institution>
+                  <id>1165188</id>
+                  <uniqueId>0</uniqueId>
+                  <quota>0.0</quota>
+                  <enabled>true</enabled>
+                </institution>
+                <parent reference="../../../../topic"/>
+                <allParents>
+                  <com.tle.beans.hierarchy.HierarchyTopic>
+                    <id>5343319</id>
+                    <allParents/>
+                    <listPosition>0</listPosition>
+                    <showResults>true</showResults>
+                    <inheritFreetext>false</inheritFreetext>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                  </com.tle.beans.hierarchy.HierarchyTopic>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+                </allParents>
+                <listPosition>0</listPosition>
+                <keyResources/>
+                <showResults>true</showResults>
+                <freetext></freetext>
+                <inheritFreetext>true</inheritFreetext>
+                <addIdefs>
+                  <com.tle.beans.ItemDefinitionScript>
+                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+                    <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/courseWorkWrapper/courseWorkTypeSpecific = &apos;Program history&apos;) </script>
+                  </com.tle.beans.ItemDefinitionScript>
+                </addIdefs>
+                <addSchemas/>
+                <inhIdefs/>
+                <inhSchemas/>
+                <virtualisationId>contributedValuesVirtualiser</virtualisationId>
+                <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
+                <name>
+                  <id>8365994</id>
+                  <strings>
+                    <entry>
+                      <string>en_US</string>
+                      <com.tle.beans.entity.LanguageString>
+                        <id>8365995</id>
+                        <locale>en_US</locale>
+                        <priority>2</priority>
+                        <text>%s</text>
+                        <bundle reference="../../../.."/>
+                      </com.tle.beans.entity.LanguageString>
+                    </entry>
+                  </strings>
+                </name>
+                <hideSubtopicsWithNoResults>false</hideSubtopicsWithNoResults>
+                <attributes/>
+              </topic>
+              <children/>
+              <targetList>
+                <entries>
+                  <com.tle.common.security.TargetListEntry>
+                    <granted>true</granted>
+                    <override>false</override>
+                    <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                    <who>TPL_WHO</who>
+                    <postfix></postfix>
+                  </com.tle.common.security.TargetListEntry>
+                </entries>
+                <partial>false</partial>
+              </targetList>
+            </com.tle.beans.hierarchy.ExportedHierarchyNode>
+          </children>
+          <targetList>
+            <entries>
+              <com.tle.common.security.TargetListEntry>
+                <granted>true</granted>
+                <override>false</override>
+                <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                <who>TPL_WHO</who>
+                <postfix></postfix>
+              </com.tle.common.security.TargetListEntry>
+            </entries>
+            <partial>false</partial>
+          </targetList>
+        </com.tle.beans.hierarchy.ExportedHierarchyNode>
+        <com.tle.beans.hierarchy.ExportedHierarchyNode>
+          <topic>
+            <id>8365997</id>
+            <uuid>57bb8a03-492f-4440-85fd-e80d6f8a18de</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -427,15 +569,15 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8715762</id>
+              <id>8365998</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8715763</id>
+                    <id>8365999</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>2. Program data portfolio</text>
+                    <text>3. Program data portfolio</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -451,7 +593,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -460,8 +602,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715573</id>
-            <uuid>d15ee553-aa5a-4c30-b28e-790ec6e836e0</uuid>
+            <id>8366002</id>
+            <uuid>831efa5e-f368-4dd2-8ac2-e5adc4de009a</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -496,15 +638,15 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8715765</id>
+              <id>8366003</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8715766</id>
+                    <id>8366004</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
-                    <text>3. Annual goals documents</text>
+                    <text>4. Annual goals documents</text>
                     <bundle reference="../../../.."/>
                   </com.tle.beans.entity.LanguageString>
                 </entry>
@@ -516,8 +658,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715577</id>
-                <uuid>323f9225-9a11-4f01-a6de-f9d85d69f4fb</uuid>
+                <id>8366006</id>
+                <uuid>f8e1989a-617f-4692-bcee-99be418a0188</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -555,12 +697,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                 <name>
-                  <id>8715578</id>
+                  <id>8366007</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715579</id>
+                        <id>8366008</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -579,7 +721,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -593,7 +735,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -602,162 +744,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715581</id>
-            <uuid>696b1324-a8d4-4eb4-9997-a5ad422caf3c</uuid>
-            <institution>
-              <id>1165188</id>
-              <uniqueId>0</uniqueId>
-              <quota>0.0</quota>
-              <enabled>true</enabled>
-            </institution>
-            <parent reference="../../../../topic"/>
-            <allParents>
-              <com.tle.beans.hierarchy.HierarchyTopic>
-                <id>5343319</id>
-                <allParents/>
-                <listPosition>0</listPosition>
-                <showResults>true</showResults>
-                <inheritFreetext>false</inheritFreetext>
-                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
-              </com.tle.beans.hierarchy.HierarchyTopic>
-              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
-              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
-            </allParents>
-            <listPosition>5</listPosition>
-            <keyResources/>
-            <showResults>true</showResults>
-            <freetext></freetext>
-            <inheritFreetext>true</inheritFreetext>
-            <addIdefs>
-              <com.tle.beans.ItemDefinitionScript>
-                <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/courseWorkWrapper/courseWorkTypeSpecific = &apos;Year-end goals reports&apos;) </script>
-              </com.tle.beans.ItemDefinitionScript>
-            </addIdefs>
-            <addSchemas/>
-            <inhIdefs/>
-            <inhSchemas>
-              <com.tle.beans.SchemaScript>
-                <entity entityclass="com.tle.beans.entity.Schema" uuid="434fe9a2-2c8f-561c-d1f2-bbd32317c0ad"/>
-              </com.tle.beans.SchemaScript>
-            </inhSchemas>
-            <name>
-              <id>8715771</id>
-              <strings>
-                <entry>
-                  <string>en_US</string>
-                  <com.tle.beans.entity.LanguageString>
-                    <id>8715772</id>
-                    <locale>en_US</locale>
-                    <priority>2</priority>
-                    <text>4. Year-end goals reports</text>
-                    <bundle reference="../../../.."/>
-                  </com.tle.beans.entity.LanguageString>
-                </entry>
-              </strings>
-            </name>
-            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
-            <attributes/>
-          </topic>
-          <children>
-            <com.tle.beans.hierarchy.ExportedHierarchyNode>
-              <topic>
-                <id>8715586</id>
-                <uuid>48d9cc65-06b1-4588-a0b7-6f72f2cf033f</uuid>
-                <institution>
-                  <id>1165188</id>
-                  <uniqueId>0</uniqueId>
-                  <quota>0.0</quota>
-                  <enabled>true</enabled>
-                </institution>
-                <parent reference="../../../../topic"/>
-                <allParents>
-                  <com.tle.beans.hierarchy.HierarchyTopic>
-                    <id>5343319</id>
-                    <allParents/>
-                    <listPosition>0</listPosition>
-                    <showResults>true</showResults>
-                    <inheritFreetext>false</inheritFreetext>
-                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
-                  </com.tle.beans.hierarchy.HierarchyTopic>
-                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../topic"/>
-                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
-                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
-                </allParents>
-                <listPosition>0</listPosition>
-                <keyResources/>
-                <showResults>true</showResults>
-                <freetext></freetext>
-                <inheritFreetext>true</inheritFreetext>
-                <addIdefs>
-                  <com.tle.beans.ItemDefinitionScript>
-                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                    <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/courseWorkWrapper/courseWorkTypeSpecific = &apos;Year-end goals reports&apos;) </script>
-                  </com.tle.beans.ItemDefinitionScript>
-                </addIdefs>
-                <addSchemas/>
-                <inhIdefs>
-                  <com.tle.beans.ItemDefinitionScript>
-                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                  </com.tle.beans.ItemDefinitionScript>
-                </inhIdefs>
-                <inhSchemas>
-                  <com.tle.beans.SchemaScript>
-                    <entity entityclass="com.tle.beans.entity.Schema" uuid="434fe9a2-2c8f-561c-d1f2-bbd32317c0ad"/>
-                  </com.tle.beans.SchemaScript>
-                </inhSchemas>
-                <virtualisationId>contributedValuesVirtualiser</virtualisationId>
-                <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
-                <name>
-                  <id>8715587</id>
-                  <strings>
-                    <entry>
-                      <string>en_US</string>
-                      <com.tle.beans.entity.LanguageString>
-                        <id>8715588</id>
-                        <locale>en_US</locale>
-                        <priority>2</priority>
-                        <text>%s</text>
-                        <bundle reference="../../../.."/>
-                      </com.tle.beans.entity.LanguageString>
-                    </entry>
-                  </strings>
-                </name>
-                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
-                <attributes/>
-              </topic>
-              <children/>
-              <targetList>
-                <entries>
-                  <com.tle.common.security.TargetListEntry>
-                    <granted>true</granted>
-                    <override>false</override>
-                    <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
-                    <postfix></postfix>
-                  </com.tle.common.security.TargetListEntry>
-                </entries>
-                <partial>false</partial>
-              </targetList>
-            </com.tle.beans.hierarchy.ExportedHierarchyNode>
-          </children>
-          <targetList>
-            <entries>
-              <com.tle.common.security.TargetListEntry>
-                <granted>true</granted>
-                <override>false</override>
-                <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
-                <postfix></postfix>
-              </com.tle.common.security.TargetListEntry>
-            </entries>
-            <partial>false</partial>
-          </targetList>
-        </com.tle.beans.hierarchy.ExportedHierarchyNode>
-        <com.tle.beans.hierarchy.ExportedHierarchyNode>
-          <topic>
-            <id>8715590</id>
-            <uuid>210441df-e27b-4498-8991-b0eb47311f97</uuid>
+            <id>8366019</id>
+            <uuid>bd274606-7118-40d4-8e9e-198fc2eae3fa</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -796,12 +784,12 @@
               </com.tle.beans.SchemaScript>
             </inhSchemas>
             <name>
-              <id>8715768</id>
+              <id>8703449</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8715769</id>
+                    <id>8703450</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>5. Annual budget</text>
@@ -816,8 +804,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715594</id>
-                <uuid>7789b7b4-4ff2-4d76-a38c-38b400442651</uuid>
+                <id>8366023</id>
+                <uuid>4c5eef71-6f38-410c-9c26-f66420f36ed4</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -859,12 +847,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                 <name>
-                  <id>8715595</id>
+                  <id>8366024</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715596</id>
+                        <id>8366025</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -883,7 +871,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -897,7 +885,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -906,8 +894,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715598</id>
-            <uuid>056912eb-342e-4c27-bd7b-a89ccd08552e</uuid>
+            <id>8366027</id>
+            <uuid>ac103885-af85-41b4-8ef3-af262eb8b3d2</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -942,12 +930,12 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8715817</id>
+              <id>8703452</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8715818</id>
+                    <id>8703453</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>6. Meeting agendas/minutes</text>
@@ -962,8 +950,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715602</id>
-                <uuid>f3648b44-8d1f-45f4-a43d-7c0a0571944d</uuid>
+                <id>8366031</id>
+                <uuid>40568d50-63f3-41b3-aed9-4cee2dabceb2</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1001,12 +989,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                 <name>
-                  <id>8715603</id>
+                  <id>8366032</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715604</id>
+                        <id>8366033</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -1025,7 +1013,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -1039,7 +1027,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -1048,8 +1036,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715606</id>
-            <uuid>8c8a7fad-edc6-418b-8beb-747695aae02d</uuid>
+            <id>8366035</id>
+            <uuid>a54535d1-4db7-48fe-bc1b-201fdcda87a1</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -1088,12 +1076,12 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8715777</id>
+              <id>8703455</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8715778</id>
+                    <id>8703456</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>7. Curriculum</text>
@@ -1108,8 +1096,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715610</id>
-                <uuid>a6a130d6-c76f-46ab-ae3a-abf057c1d78a</uuid>
+                <id>8366039</id>
+                <uuid>8d3c299a-fe59-4cff-8f69-88bd257707a5</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1149,12 +1137,12 @@
                 </inhIdefs>
                 <inhSchemas/>
                 <name>
-                  <id>8715611</id>
+                  <id>8366040</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715612</id>
+                        <id>8366041</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Syllabi</text>
@@ -1169,8 +1157,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8715614</id>
-                    <uuid>c6cad77a-5649-42e7-b508-a3895bd36ebd</uuid>
+                    <id>8366043</id>
+                    <uuid>5111533e-b35f-48a6-bd58-af0bc97710cc</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -1209,12 +1197,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/local/courseInfo/courseName</virtualisationPath>
                     <name>
-                      <id>8715615</id>
+                      <id>8366044</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8715616</id>
+                            <id>8366045</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -1233,7 +1221,7 @@
                         <granted>true</granted>
                         <override>false</override>
                         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                        <who>R:TPL_REVIEWER_UUID R:98058527-dcc9-4a65-8f11-f844d335ffaf OR R:TPL_DIVISION_ADMIN_UUID OR R:TPL_ADMIN_UUID OR </who>
+                        <who>TPL_WHO</who>
                         <postfix></postfix>
                       </com.tle.common.security.TargetListEntry>
                     </entries>
@@ -1247,7 +1235,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -1256,8 +1244,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715619</id>
-                <uuid>db0a299a-d0ff-43e8-8800-1cd805a517e1</uuid>
+                <id>8366048</id>
+                <uuid>f5712e3b-f6bd-466a-bf6d-5b06224731d0</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1293,12 +1281,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8715620</id>
+                  <id>8366049</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715621</id>
+                        <id>8366050</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Major requirements</text>
@@ -1313,8 +1301,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8715623</id>
-                    <uuid>2d94b432-12be-445f-ae1a-de2a9491ac5b</uuid>
+                    <id>8366052</id>
+                    <uuid>b0dcb065-f7d7-4439-8f0a-725808cb3a78</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -1353,12 +1341,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8715624</id>
+                      <id>8366053</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8715625</id>
+                            <id>8366054</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -1377,7 +1365,7 @@
                         <granted>true</granted>
                         <override>false</override>
                         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                        <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                        <who>TPL_WHO</who>
                         <postfix></postfix>
                       </com.tle.common.security.TargetListEntry>
                     </entries>
@@ -1391,7 +1379,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -1400,8 +1388,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715628</id>
-                <uuid>62adc09e-5323-4610-96b0-5f6736f54ab9</uuid>
+                <id>8366057</id>
+                <uuid>8bf8c590-931b-440d-be2f-128c71ef30bf</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1437,12 +1425,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8715629</id>
+                  <id>8366058</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715630</id>
+                        <id>8366059</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Sequence charts</text>
@@ -1457,8 +1445,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8715632</id>
-                    <uuid>e790250f-cc02-40a6-ac93-e599dcf9cbdb</uuid>
+                    <id>8366061</id>
+                    <uuid>627de3ab-b80e-4a2d-bd4f-0039254b1589</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -1497,12 +1485,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8715633</id>
+                      <id>8366062</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8715634</id>
+                            <id>8366063</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -1521,7 +1509,7 @@
                         <granted>true</granted>
                         <override>false</override>
                         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                        <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                        <who>TPL_WHO</who>
                         <postfix></postfix>
                       </com.tle.common.security.TargetListEntry>
                     </entries>
@@ -1535,7 +1523,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -1544,8 +1532,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715636</id>
-                <uuid>9665fa44-9e46-4371-bc86-e05bafc7634b</uuid>
+                <id>8366065</id>
+                <uuid>f5893b3b-9f1a-4a27-b856-126e141509b5</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1581,12 +1569,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8715637</id>
+                  <id>8366066</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715638</id>
+                        <id>8366067</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Course schedules</text>
@@ -1601,8 +1589,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8715640</id>
-                    <uuid>96ef83a7-53ef-428c-8ce5-55ef4d7ba9c7</uuid>
+                    <id>8366069</id>
+                    <uuid>c55c1bdc-655c-4454-9c09-033d35402a1a</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -1641,12 +1629,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8715641</id>
+                      <id>8366070</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8715642</id>
+                            <id>8366071</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -1665,7 +1653,7 @@
                         <granted>true</granted>
                         <override>false</override>
                         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                        <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                        <who>TPL_WHO</who>
                         <postfix></postfix>
                       </com.tle.common.security.TargetListEntry>
                     </entries>
@@ -1679,7 +1667,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -1693,7 +1681,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -1702,8 +1690,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715644</id>
-            <uuid>3c2f5fe6-acc2-48dd-bc0b-bbed2e2c4bff</uuid>
+            <id>8366073</id>
+            <uuid>2a267912-7664-4f1f-8c5f-8a77919e2e0d</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -1731,11 +1719,7 @@
             <addIdefs>
               <com.tle.beans.ItemDefinitionScript>
                 <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos; AND (/xml/local/courseWorkWrapper/courseWorkType = &apos;Course work&apos; OR /xml/local/courseWorkWrapper/courseWorkType = &apos;Senior packet&apos;)) </script>
-              </com.tle.beans.ItemDefinitionScript>
-              <com.tle.beans.ItemDefinitionScript>
-                <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="ecee0984-73fd-4a89-af1d-3d9b67af92d8"/>
-                <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos;) </script>
+                <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos; AND (/xml/local/courseWorkWrapper/courseWorkType = &apos;Course work&apos; OR /xml/local/courseWorkWrapper/courseWorkType = &apos;Senior packet&apos; OR /xml/local/courseWorkWrapper/courseWorkType = &apos;Junior Review&apos;)) </script>
               </com.tle.beans.ItemDefinitionScript>
             </addIdefs>
             <addSchemas/>
@@ -1746,12 +1730,12 @@
               </com.tle.beans.SchemaScript>
             </inhSchemas>
             <name>
-              <id>8716046</id>
+              <id>8862358</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8716047</id>
+                    <id>8862359</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>8. Student Work</text>
@@ -1766,86 +1750,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715648</id>
-                <uuid>649b7bed-5bc6-417b-8168-9cb051f19115</uuid>
-                <institution>
-                  <id>1165188</id>
-                  <uniqueId>0</uniqueId>
-                  <quota>0.0</quota>
-                  <enabled>true</enabled>
-                </institution>
-                <parent reference="../../../../topic"/>
-                <allParents>
-                  <com.tle.beans.hierarchy.HierarchyTopic>
-                    <id>5343319</id>
-                    <allParents/>
-                    <listPosition>0</listPosition>
-                    <showResults>true</showResults>
-                    <inheritFreetext>false</inheritFreetext>
-                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
-                  </com.tle.beans.hierarchy.HierarchyTopic>
-                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../topic"/>
-                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
-                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
-                </allParents>
-                <listPosition>0</listPosition>
-                <keyResources/>
-                <showResults>true</showResults>
-                <freetext></freetext>
-                <inheritFreetext>true</inheritFreetext>
-                <addIdefs>
-                  <com.tle.beans.ItemDefinitionScript>
-                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                    <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos; AND /xml/local/courseWorkWrapper/courseWorkType = &apos;Course work&apos;) </script>
-                  </com.tle.beans.ItemDefinitionScript>
-                </addIdefs>
-                <addSchemas/>
-                <inhIdefs>
-                  <com.tle.beans.ItemDefinitionScript>
-                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                  </com.tle.beans.ItemDefinitionScript>
-                </inhIdefs>
-                <inhSchemas>
-                  <com.tle.beans.SchemaScript>
-                    <entity entityclass="com.tle.beans.entity.Schema" uuid="434fe9a2-2c8f-561c-d1f2-bbd32317c0ad"/>
-                  </com.tle.beans.SchemaScript>
-                </inhSchemas>
-                <name>
-                  <id>8715927</id>
-                  <strings>
-                    <entry>
-                      <string>en_US</string>
-                      <com.tle.beans.entity.LanguageString>
-                        <id>8715928</id>
-                        <locale>en_US</locale>
-                        <priority>2</priority>
-                        <text>General Course Work</text>
-                        <bundle reference="../../../.."/>
-                      </com.tle.beans.entity.LanguageString>
-                    </entry>
-                  </strings>
-                </name>
-                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
-                <attributes/>
-              </topic>
-              <children/>
-              <targetList>
-                <entries>
-                  <com.tle.common.security.TargetListEntry>
-                    <granted>true</granted>
-                    <override>false</override>
-                    <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_REVIEWER_UUID OR R:TPL_ADMIN_UUID OR </who>
-                    <postfix></postfix>
-                  </com.tle.common.security.TargetListEntry>
-                </entries>
-                <partial>false</partial>
-              </targetList>
-            </com.tle.beans.hierarchy.ExportedHierarchyNode>
-            <com.tle.beans.hierarchy.ExportedHierarchyNode>
-              <topic>
-                <id>8715653</id>
-                <uuid>5a4d0e4c-14bd-4242-941c-daccfb2061ab</uuid>
+                <id>8366082</id>
+                <uuid>9da552c9-5c91-4f4c-b42c-dceaa5750f99</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1874,11 +1780,7 @@
                 <addIdefs>
                   <com.tle.beans.ItemDefinitionScript>
                     <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                    <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos; AND /xml/local/courseWorkWrapper/courseWorkType = &apos;Junior Review&apos;) </script>
-                  </com.tle.beans.ItemDefinitionScript>
-                  <com.tle.beans.ItemDefinitionScript>
-                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="ecee0984-73fd-4a89-af1d-3d9b67af92d8"/>
-                    <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos;) </script>
+                    <script>/xml/local/courseWorkWrapper/courseWorkType = &apos;Junior Review&apos; </script>
                   </com.tle.beans.ItemDefinitionScript>
                 </addIdefs>
                 <addSchemas/>
@@ -1889,12 +1791,12 @@
                   </com.tle.beans.SchemaScript>
                 </inhSchemas>
                 <name>
-                  <id>8716229</id>
+                  <id>8703497</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8716230</id>
+                        <id>8703498</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Junior Review</text>
@@ -1913,7 +1815,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -1922,8 +1824,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715657</id>
-                <uuid>7df2a0f1-75e3-4acf-9ef6-eae112ab2fd9</uuid>
+                <id>8366086</id>
+                <uuid>8e9e9858-aec7-4e21-8768-171465a56634</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -1952,7 +1854,7 @@
                 <addIdefs>
                   <com.tle.beans.ItemDefinitionScript>
                     <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
-                    <script>(/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos; AND /xml/local/assessmentWrapper/useInReview = &apos;yes&apos; AND /xml/local/courseWorkWrapper/courseWorkType = &apos;Senior packet&apos;) </script>
+                    <script>/xml/local/courseWorkWrapper/courseWorkType = &apos;Senior packet&apos; </script>
                   </com.tle.beans.ItemDefinitionScript>
                 </addIdefs>
                 <addSchemas/>
@@ -1967,15 +1869,15 @@
                   </com.tle.beans.SchemaScript>
                 </inhSchemas>
                 <name>
-                  <id>8715933</id>
+                  <id>8703475</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715934</id>
+                        <id>8703476</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
-                        <text>Senior Packets</text>
+                        <text>Senior Projects</text>
                         <bundle reference="../../../.."/>
                       </com.tle.beans.entity.LanguageString>
                     </entry>
@@ -1991,7 +1893,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_REVIEWER_UUID OR R:TPL_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2005,7 +1907,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -2014,8 +1916,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715661</id>
-            <uuid>0cf1e60d-4094-4a55-a74c-73e593c02985</uuid>
+            <id>8366090</id>
+            <uuid>786459b9-6976-4125-acb1-4f4e6347e41c</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -2050,12 +1952,12 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8715783</id>
+              <id>8703461</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8715784</id>
+                    <id>8703462</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>9. Learning outcomes and learning assessment</text>
@@ -2070,8 +1972,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715665</id>
-                <uuid>7523e250-9883-407d-9d77-ce402a41c032</uuid>
+                <id>8366094</id>
+                <uuid>ea530c34-c35f-4de9-999b-a63a74507472</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2107,12 +2009,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8715666</id>
+                  <id>8366095</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715667</id>
+                        <id>8366096</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Program learning outcomes document</text>
@@ -2127,8 +2029,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8715669</id>
-                    <uuid>fa38168d-2ecf-485e-bfbf-e8c02c877f11</uuid>
+                    <id>8366098</id>
+                    <uuid>82997b30-3e19-4a42-bf76-f0df5e5b7b12</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -2167,12 +2069,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8715670</id>
+                      <id>8366099</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8715671</id>
+                            <id>8366100</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -2197,7 +2099,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2206,8 +2108,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715672</id>
-                <uuid>376094b1-d0a0-49a2-9869-6676f47c9c7b</uuid>
+                <id>8366101</id>
+                <uuid>b636ab89-1891-4504-b754-b9185eddcd8b</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2243,12 +2145,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8715673</id>
+                  <id>8366102</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715674</id>
+                        <id>8366103</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Year-end Program Assessment Reports</text>
@@ -2263,8 +2165,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8715676</id>
-                    <uuid>1c7ac112-6e9b-4623-b4d0-9cb66ab7e561</uuid>
+                    <id>8366105</id>
+                    <uuid>279687c1-7f9a-4b34-b3d4-74516cf6c3da</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -2303,12 +2205,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8715677</id>
+                      <id>8366106</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8715678</id>
+                            <id>8366107</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -2333,7 +2235,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2342,8 +2244,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715679</id>
-                <uuid>1df11692-e166-44be-8980-e37f3b62961e</uuid>
+                <id>8366108</id>
+                <uuid>f714c911-851c-4465-814c-c72588b32c1e</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2379,12 +2281,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8715680</id>
+                  <id>8366109</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715681</id>
+                        <id>8366110</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Current learning outcomes matrix</text>
@@ -2399,8 +2301,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8715683</id>
-                    <uuid>53da83cd-d1b6-47e1-b9c4-14b0d7ee5d69</uuid>
+                    <id>8366112</id>
+                    <uuid>ba4fa195-f4a7-4266-b5dc-afc2f94fd26a</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -2439,12 +2341,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8715684</id>
+                      <id>8366113</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8715685</id>
+                            <id>8366114</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -2469,7 +2371,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2478,8 +2380,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715686</id>
-                <uuid>e97b3194-3f4e-46b8-8848-c60c045123f1</uuid>
+                <id>8366115</id>
+                <uuid>fb2fd6bf-161f-4e91-bc9a-d308f9fc883f</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2515,12 +2417,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8715687</id>
+                  <id>8366116</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715688</id>
+                        <id>8366117</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Level review materials</text>
@@ -2535,8 +2437,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8715690</id>
-                    <uuid>a5efb300-e7c5-4c2d-a532-a7efb219aa1e</uuid>
+                    <id>8366119</id>
+                    <uuid>c5e6eae1-380c-4f1f-842f-40fe735f951a</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -2575,12 +2477,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8715691</id>
+                      <id>8366120</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8715692</id>
+                            <id>8366121</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -2599,7 +2501,7 @@
                         <granted>true</granted>
                         <override>false</override>
                         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                        <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_DIVISION_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_ADMIN_UUID OR </who>
+                        <who>TPL_WHO</who>
                         <postfix></postfix>
                       </com.tle.common.security.TargetListEntry>
                     </entries>
@@ -2613,7 +2515,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2622,8 +2524,8 @@
             </com.tle.beans.hierarchy.ExportedHierarchyNode>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715695</id>
-                <uuid>ffc4dc22-5435-426f-9b83-a9cd0d05b845</uuid>
+                <id>8366124</id>
+                <uuid>44570cb1-fce5-49e7-9319-e7bba091b7ea</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2659,12 +2561,12 @@
                 <inhIdefs/>
                 <inhSchemas/>
                 <name>
-                  <id>8715696</id>
+                  <id>8366125</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715697</id>
+                        <id>8366126</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>Other assessment data</text>
@@ -2679,8 +2581,8 @@
               <children>
                 <com.tle.beans.hierarchy.ExportedHierarchyNode>
                   <topic>
-                    <id>8715699</id>
-                    <uuid>0130345e-caae-4e7c-9948-fdbca21e926c</uuid>
+                    <id>8366128</id>
+                    <uuid>c399ee20-d56a-4166-8604-38f82d820ca7</uuid>
                     <institution>
                       <id>1165188</id>
                       <uniqueId>0</uniqueId>
@@ -2719,12 +2621,12 @@
                     <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                     <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                     <name>
-                      <id>8715700</id>
+                      <id>8366129</id>
                       <strings>
                         <entry>
                           <string>en_US</string>
                           <com.tle.beans.entity.LanguageString>
-                            <id>8715701</id>
+                            <id>8366130</id>
                             <locale>en_US</locale>
                             <priority>2</priority>
                             <text>%s</text>
@@ -2749,7 +2651,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2763,7 +2665,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -2772,8 +2674,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715702</id>
-            <uuid>ec95e390-5fda-4a46-9366-ae3d4656da20</uuid>
+            <id>8366131</id>
+            <uuid>d46599fb-53f8-438a-8df0-db987ce6d3c7</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -2808,12 +2710,12 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8715786</id>
+              <id>8703464</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8715787</id>
+                    <id>8703465</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>10. Faculty</text>
@@ -2828,8 +2730,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715706</id>
-                <uuid>e77f923d-e4bc-440d-8a69-337fbdc30c59</uuid>
+                <id>8366135</id>
+                <uuid>b8e5fd76-1911-40f3-b70c-f606f2b75d30</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -2867,12 +2769,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/titleInfo/title</virtualisationPath>
                 <name>
-                  <id>8715707</id>
+                  <id>8366136</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715708</id>
+                        <id>8366137</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -2891,7 +2793,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -2905,7 +2807,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:TPL_ADMIN_UUID R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR R:98058527-dcc9-4a65-8f11-f844d335ffaf OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -2914,8 +2816,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715710</id>
-            <uuid>508b21b6-e987-41ac-84b5-1cb83174bb50</uuid>
+            <id>8366139</id>
+            <uuid>9af143a1-c651-489d-9db3-9752489bf2ec</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -2954,12 +2856,12 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8715795</id>
+              <id>8714894</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8715796</id>
+                    <id>8714895</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>11. Lectures &amp; Events</text>
@@ -2974,8 +2876,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715714</id>
-                <uuid>194e364c-ba49-4030-b484-1a099fe4c0ac</uuid>
+                <id>8366143</id>
+                <uuid>2be0604b-8209-4fad-bc19-18b739a0e8a4</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -3001,28 +2903,24 @@
                 <showResults>true</showResults>
                 <freetext></freetext>
                 <inheritFreetext>true</inheritFreetext>
-                <addIdefs>
-                  <com.tle.beans.ItemDefinitionScript>
-                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="5b05c15b-d835-49d4-a061-fdc60c7ab623"/>
-                    <script>/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos;</script>
-                  </com.tle.beans.ItemDefinitionScript>
-                </addIdefs>
+                <addIdefs/>
                 <addSchemas/>
                 <inhIdefs>
                   <com.tle.beans.ItemDefinitionScript>
-                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="5b05c15b-d835-49d4-a061-fdc60c7ab623"/>
+                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+                    <script>/xml/local/assessmentWrapper/staging = &apos;TPL_SEMESTER\External Review\TPL_PROGRAM&apos;</script>
                   </com.tle.beans.ItemDefinitionScript>
                 </inhIdefs>
                 <inhSchemas/>
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
-                <virtualisationPath>/mods/name/namePart</virtualisationPath>
+                <virtualisationPath>/mods/origininfo/dateCreatedWrapper/dateCreated</virtualisationPath>
                 <name>
-                  <id>8715715</id>
+                  <id>8714882</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715716</id>
+                        <id>8714883</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -3041,7 +2939,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:TPL_DIVISION_ADMIN_UUID R:98058527-dcc9-4a65-8f11-f844d335ffaf OR R:TPL_REVIEWER_UUID OR R:TPL_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -3055,7 +2953,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -3064,8 +2962,8 @@
         </com.tle.beans.hierarchy.ExportedHierarchyNode>
         <com.tle.beans.hierarchy.ExportedHierarchyNode>
           <topic>
-            <id>8715719</id>
-            <uuid>6a4843e6-bcdb-4edf-b56f-f96954126a77</uuid>
+            <id>8366148</id>
+            <uuid>9a7a2b38-be2a-4a4b-ab68-685553abe103</uuid>
             <institution>
               <id>1165188</id>
               <uniqueId>0</uniqueId>
@@ -3100,12 +2998,12 @@
             <inhIdefs/>
             <inhSchemas/>
             <name>
-              <id>8715792</id>
+              <id>8703470</id>
               <strings>
                 <entry>
                   <string>en_US</string>
                   <com.tle.beans.entity.LanguageString>
-                    <id>8715793</id>
+                    <id>8703471</id>
                     <locale>en_US</locale>
                     <priority>2</priority>
                     <text>12. Alumni Successes</text>
@@ -3120,8 +3018,8 @@
           <children>
             <com.tle.beans.hierarchy.ExportedHierarchyNode>
               <topic>
-                <id>8715723</id>
-                <uuid>bc78deb5-02b0-4d31-aaba-29798e0d7fd8</uuid>
+                <id>8366152</id>
+                <uuid>0153fc22-f2b4-488c-b7be-c919d08fabc5</uuid>
                 <institution>
                   <id>1165188</id>
                   <uniqueId>0</uniqueId>
@@ -3159,12 +3057,12 @@
                 <virtualisationId>contributedValuesVirtualiser</virtualisationId>
                 <virtualisationPath>/mods/name/namePart</virtualisationPath>
                 <name>
-                  <id>8715724</id>
+                  <id>8366153</id>
                   <strings>
                     <entry>
                       <string>en_US</string>
                       <com.tle.beans.entity.LanguageString>
-                        <id>8715725</id>
+                        <id>8366154</id>
                         <locale>en_US</locale>
                         <priority>2</priority>
                         <text>%s</text>
@@ -3183,7 +3081,7 @@
                     <granted>true</granted>
                     <override>false</override>
                     <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                    <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                    <who>TPL_WHO</who>
                     <postfix></postfix>
                   </com.tle.common.security.TargetListEntry>
                 </entries>
@@ -3197,7 +3095,7 @@
                 <granted>true</granted>
                 <override>false</override>
                 <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-                <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+                <who>TPL_WHO</who>
                 <postfix></postfix>
               </com.tle.common.security.TargetListEntry>
             </entries>
@@ -3211,7 +3109,7 @@
             <granted>true</granted>
             <override>false</override>
             <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-            <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR R:TPL_DIVISION_ADMIN_UUID OR </who>
+            <who>TPL_WHO</who>
             <postfix></postfix>
           </com.tle.common.security.TargetListEntry>
         </entries>
@@ -3225,7 +3123,7 @@
         <granted>true</granted>
         <override>false</override>
         <privilege>VIEW_HIERARCHY_TOPIC</privilege>
-        <who>R:98058527-dcc9-4a65-8f11-f844d335ffaf R:TPL_DIVISION_ADMIN_UUID OR R:TPL_ADMIN_UUID OR R:TPL_REVIEWER_UUID OR </who>
+        <who>TPL_WHO</who>
         <postfix></postfix>
       </com.tle.common.security.TargetListEntry>
     </entries>

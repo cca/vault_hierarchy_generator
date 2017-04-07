@@ -21,15 +21,15 @@ var replaceStream = require('replaceStream')
 
 fs.createReadStream(template)
     // perform replacements
-    .pipe(replaceStream('TPL_COLLECTION_UUID', replacements['collection-uuid']))
+    .pipe(replaceStream('TPL_COLLECTION_UUID', replacements['collection-id']))
     .pipe(replaceStream('TPL_PROGRAM', replacements.program))
     .pipe(replaceStream('TPL_SEMESTER', replacements.semester))
     // do all role UUIDs replacements in one fell swoop
     .pipe(replaceStream('TPL_WHO', (match) => {
-        var acl = `R:${replacements['admin-role-uuid']} R:${replacements['college-admin-uuid']} OR R:${replacements['division-admin-role-uuid']} OR R:${replacements['external-reviewer-role-uuid']} OR `
+        var acl = `R:${replacements['program-admin-id']} R:${replacements['college-admin-id']} OR R:${replacements['division-admin-id']} OR R:${replacements['external-reviewer-id']} OR `
         // may not have a work study UUID
-        if (replacements['work-study-uuid']) {
-            acl += `R:${replacements['work-study-uuid']} OR `
+        if (replacements['work-study-id']) {
+            acl += `R:${replacements['work-study-id']} OR `
         }
         return acl
     }))
