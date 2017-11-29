@@ -4,7 +4,9 @@
   "description": "create VAULT external review hierarchy from template",
   "main": "index.js",
   "keywords": [
-    "EQUELLA", "hierarchy", "template"
+    "EQUELLA",
+    "hierarchy",
+    "template"
   ],
   "author": "phette23 <phette23@gmail.com> (http://phette.net)",
   "license": "ECL-2.0",
