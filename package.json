@@ -11,7 +11,7 @@
   "author": "phette23 <phette23@gmail.com> (http://phette.net)",
   "license": "ECL-2.0",
   "dependencies": {
-    "rc": "^1.1.6",
+    "rc": "^1.2.8",
     "replacestream": "^4.0.0"
   }
 }
