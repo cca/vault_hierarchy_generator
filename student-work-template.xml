@@ -1,0 +1,1596 @@
+<com.tle.beans.hierarchy.ExportedHierarchyNode>
+  <topic>
+    <id>6120374</id>
+    <uuid>c0654229-a7e3-4cb0-81c4-c520ad953873</uuid>
+    <institution>
+      <id>1165188</id>
+      <uniqueId>0</uniqueId>
+      <quota>0.0</quota>
+      <enabled>true</enabled>
+    </institution>
+    <parent>
+      <id>4106842</id>
+      <allParents/>
+      <listPosition>0</listPosition>
+      <showResults>true</showResults>
+      <inheritFreetext>false</inheritFreetext>
+      <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+    </parent>
+    <allParents>
+      <com.tle.beans.hierarchy.HierarchyTopic>
+        <id>3864695</id>
+        <allParents/>
+        <listPosition>0</listPosition>
+        <showResults>true</showResults>
+        <inheritFreetext>false</inheritFreetext>
+        <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+      </com.tle.beans.hierarchy.HierarchyTopic>
+      <com.tle.beans.hierarchy.HierarchyTopic>
+        <id>4106842</id>
+        <allParents/>
+        <listPosition>0</listPosition>
+        <showResults>true</showResults>
+        <inheritFreetext>false</inheritFreetext>
+        <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+      </com.tle.beans.hierarchy.HierarchyTopic>
+    </allParents>
+    <listPosition>5</listPosition>
+    <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+    <keyResources/>
+    <showResults>true</showResults>
+    <freetext></freetext>
+    <inheritFreetext>false</inheritFreetext>
+    <addIdefs>
+      <com.tle.beans.ItemDefinitionScript>
+        <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+      </com.tle.beans.ItemDefinitionScript>
+    </addIdefs>
+    <addSchemas/>
+    <inhIdefs>
+      <com.tle.beans.ItemDefinitionScript>
+        <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+      </com.tle.beans.ItemDefinitionScript>
+    </inhIdefs>
+    <inhSchemas/>
+    <name>
+      <id>7838925</id>
+      <strings>
+        <entry>
+          <string>en_US</string>
+          <com.tle.beans.entity.LanguageString>
+            <id>7838926</id>
+            <locale>en_US</locale>
+            <priority>2</priority>
+            <text>TPL_PROGRAM</text>
+            <bundle reference="../../../.."/>
+          </com.tle.beans.entity.LanguageString>
+        </entry>
+      </strings>
+    </name>
+    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+    <attributes/>
+  </topic>
+  <children>
+    <com.tle.beans.hierarchy.ExportedHierarchyNode>
+      <topic>
+        <id>6120446</id>
+        <uuid>17e4b82e-119c-49f9-a992-eeb98556aaae</uuid>
+        <institution>
+          <id>1165188</id>
+          <uniqueId>0</uniqueId>
+          <quota>0.0</quota>
+          <enabled>true</enabled>
+        </institution>
+        <parent reference="../../../../topic"/>
+        <allParents>
+          <com.tle.beans.hierarchy.HierarchyTopic>
+            <id>3864695</id>
+            <allParents/>
+            <listPosition>0</listPosition>
+            <showResults>true</showResults>
+            <inheritFreetext>false</inheritFreetext>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+          </com.tle.beans.hierarchy.HierarchyTopic>
+          <com.tle.beans.hierarchy.HierarchyTopic>
+            <id>4106842</id>
+            <allParents/>
+            <listPosition>0</listPosition>
+            <showResults>true</showResults>
+            <inheritFreetext>false</inheritFreetext>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+          </com.tle.beans.hierarchy.HierarchyTopic>
+          <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+        </allParents>
+        <listPosition>0</listPosition>
+        <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+        <keyResources/>
+        <showResults>true</showResults>
+        <freetext></freetext>
+        <inheritFreetext>false</inheritFreetext>
+        <addIdefs/>
+        <addSchemas/>
+        <inhIdefs>
+          <com.tle.beans.ItemDefinitionScript>
+            <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+          </com.tle.beans.ItemDefinitionScript>
+        </inhIdefs>
+        <inhSchemas/>
+        <name>
+          <id>7328892</id>
+          <strings>
+            <entry>
+              <string>en_US</string>
+              <com.tle.beans.entity.LanguageString>
+                <id>7328893</id>
+                <locale>en_US</locale>
+                <priority>2</priority>
+                <text>Browse by semester…</text>
+                <bundle reference="../../../.."/>
+              </com.tle.beans.entity.LanguageString>
+            </entry>
+          </strings>
+        </name>
+        <shortDescription>
+          <id>7328894</id>
+          <strings>
+            <entry>
+              <string>en</string>
+              <com.tle.beans.entity.LanguageString>
+                <id>7328895</id>
+                <locale>en</locale>
+                <priority>1</priority>
+                <text>... semester &gt; course &gt; faculty</text>
+                <bundle reference="../../../.."/>
+              </com.tle.beans.entity.LanguageString>
+            </entry>
+          </strings>
+        </shortDescription>
+        <longDescription>
+          <id>7328890</id>
+          <strings>
+            <entry>
+              <string>en</string>
+              <com.tle.beans.entity.LanguageString>
+                <id>7328891</id>
+                <locale>en</locale>
+                <priority>1</priority>
+                <text>... &lt;i&gt;&lt;strong&gt;semester&lt;/strong&gt; &gt; course &gt; faculty&lt;/i&gt;
+
+&lt;!-- sort semester reverse chronologically rather than alphabetically --&gt;
+&lt;!-- not really a portlet, used on a hierarchy page --&gt;
+&lt;!-- hide initial, unsorted list of semesters --&gt;
+&lt;style&gt;.indent ul { display: none; } &lt;/style&gt;
+&lt;!-- load my semester sort library --&gt;
+&lt;script src=&quot;/file/ed8669bd-57c4-485f-8d68-a8442026bcee/1/semsort.min.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+var ss = require(&apos;semester-sort&apos;)
+
+$(function(){
+
+var semesterElements = {}
+var semesterStrings = []
+var $indent = $(&apos;.indent&apos;)
+
+$indent.find(&apos;ul&apos;).eq(0).find(&apos;li&apos;).each(function() {
+    var name = $(this).text()
+    // set hash key to semester name &amp; value to a clone of its &lt;li&gt; node
+    semesterElements[name] = $(this).clone()
+    // Object.keys() on above would obviate need for this array of strings
+    semesterStrings.push(name)
+})
+
+// sort, reverse chronological
+semesterStrings.sort(ss).reverse()
+// remove the old list &amp; create a new one
+$indent.find(&apos;ul&apos;).eq(0).remove()
+$indent.find(&apos;h4&apos;).after(&apos;&lt;ul&gt;&lt;/ul&gt;&apos;)
+$list = $indent.find(&apos;ul&apos;).eq(0)
+
+// insert each cloned semester element, now in correct order
+$.each(semesterStrings, function(index, value) {
+    $list.append(semesterElements[value])
+})
+// reveal
+$list.show()
+
+})
+&lt;/script&gt;
+</text>
+                <bundle reference="../../../.."/>
+              </com.tle.beans.entity.LanguageString>
+            </entry>
+          </strings>
+        </longDescription>
+        <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+        <attributes/>
+      </topic>
+      <children>
+        <com.tle.beans.hierarchy.ExportedHierarchyNode>
+          <topic>
+            <id>6120473</id>
+            <uuid>47f13ef1-a24f-4c4d-9e1a-3d6510881410</uuid>
+            <institution>
+              <id>1165188</id>
+              <uniqueId>0</uniqueId>
+              <quota>0.0</quota>
+              <enabled>true</enabled>
+            </institution>
+            <parent reference="../../../../topic"/>
+            <allParents>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>3864695</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>4106842</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+            </allParents>
+            <listPosition>0</listPosition>
+            <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+            <keyResources/>
+            <showResults>true</showResults>
+            <freetext></freetext>
+            <inheritFreetext>false</inheritFreetext>
+            <addIdefs>
+              <com.tle.beans.ItemDefinitionScript>
+                <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+              </com.tle.beans.ItemDefinitionScript>
+            </addIdefs>
+            <addSchemas/>
+            <inhIdefs/>
+            <inhSchemas/>
+            <virtualisationId>contributedValuesVirtualiser</virtualisationId>
+            <virtualisationPath>/local/courseInfo/semester</virtualisationPath>
+            <name>
+              <id>6167843</id>
+              <strings>
+                <entry>
+                  <string>en_US</string>
+                  <com.tle.beans.entity.LanguageString>
+                    <id>6167844</id>
+                    <locale>en_US</locale>
+                    <priority>2</priority>
+                    <text>%s</text>
+                    <bundle reference="../../../.."/>
+                  </com.tle.beans.entity.LanguageString>
+                </entry>
+              </strings>
+            </name>
+            <longDescription>
+              <id>6167841</id>
+              <strings>
+                <entry>
+                  <string>en</string>
+                  <com.tle.beans.entity.LanguageString>
+                    <id>6167842</id>
+                    <locale>en</locale>
+                    <priority>1</priority>
+                    <text>... &lt;i&gt;&lt;strong&gt;semester &gt; course&lt;/strong&gt; &gt; faculty&lt;/i&gt;</text>
+                    <bundle reference="../../../.."/>
+                  </com.tle.beans.entity.LanguageString>
+                </entry>
+              </strings>
+            </longDescription>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+            <attributes/>
+          </topic>
+          <children>
+            <com.tle.beans.hierarchy.ExportedHierarchyNode>
+              <topic>
+                <id>6120476</id>
+                <uuid>872ae2d7-d023-4d79-a426-0311e0be999b</uuid>
+                <institution>
+                  <id>1165188</id>
+                  <uniqueId>0</uniqueId>
+                  <quota>0.0</quota>
+                  <enabled>true</enabled>
+                </institution>
+                <parent reference="../../../../topic"/>
+                <allParents>
+                  <com.tle.beans.hierarchy.HierarchyTopic>
+                    <id>3864695</id>
+                    <allParents/>
+                    <listPosition>0</listPosition>
+                    <showResults>true</showResults>
+                    <inheritFreetext>false</inheritFreetext>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                  </com.tle.beans.hierarchy.HierarchyTopic>
+                  <com.tle.beans.hierarchy.HierarchyTopic>
+                    <id>4106842</id>
+                    <allParents/>
+                    <listPosition>0</listPosition>
+                    <showResults>true</showResults>
+                    <inheritFreetext>false</inheritFreetext>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                  </com.tle.beans.hierarchy.HierarchyTopic>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+                </allParents>
+                <listPosition>0</listPosition>
+                <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+                <keyResources/>
+                <showResults>true</showResults>
+                <freetext></freetext>
+                <inheritFreetext>false</inheritFreetext>
+                <addIdefs/>
+                <addSchemas/>
+                <inhIdefs>
+                  <com.tle.beans.ItemDefinitionScript>
+                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+                  </com.tle.beans.ItemDefinitionScript>
+                </inhIdefs>
+                <inhSchemas/>
+                <virtualisationId>contributedValuesVirtualiser</virtualisationId>
+                <virtualisationPath>/local/courseInfo/course</virtualisationPath>
+                <name>
+                  <id>6167853</id>
+                  <strings>
+                    <entry>
+                      <string>en_US</string>
+                      <com.tle.beans.entity.LanguageString>
+                        <id>6167854</id>
+                        <locale>en_US</locale>
+                        <priority>2</priority>
+                        <text>%s</text>
+                        <bundle reference="../../../.."/>
+                      </com.tle.beans.entity.LanguageString>
+                    </entry>
+                  </strings>
+                </name>
+                <longDescription>
+                  <id>6167851</id>
+                  <strings>
+                    <entry>
+                      <string>en</string>
+                      <com.tle.beans.entity.LanguageString>
+                        <id>6167852</id>
+                        <locale>en</locale>
+                        <priority>1</priority>
+                        <text>... &lt;i&gt;&lt;strong&gt;semester &gt; course &gt; faculty&lt;/strong&gt;&lt;/i&gt;</text>
+                        <bundle reference="../../../.."/>
+                      </com.tle.beans.entity.LanguageString>
+                    </entry>
+                  </strings>
+                </longDescription>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                <attributes/>
+              </topic>
+              <children>
+                <com.tle.beans.hierarchy.ExportedHierarchyNode>
+                  <topic>
+                    <id>6120479</id>
+                    <uuid>ffd242a9-23dd-4516-a9e3-c9247fa2fa61</uuid>
+                    <institution>
+                      <id>1165188</id>
+                      <uniqueId>0</uniqueId>
+                      <quota>0.0</quota>
+                      <enabled>true</enabled>
+                    </institution>
+                    <parent reference="../../../../topic"/>
+                    <allParents>
+                      <com.tle.beans.hierarchy.HierarchyTopic>
+                        <id>3864695</id>
+                        <allParents/>
+                        <listPosition>0</listPosition>
+                        <showResults>true</showResults>
+                        <inheritFreetext>false</inheritFreetext>
+                        <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                      </com.tle.beans.hierarchy.HierarchyTopic>
+                      <com.tle.beans.hierarchy.HierarchyTopic>
+                        <id>4106842</id>
+                        <allParents/>
+                        <listPosition>0</listPosition>
+                        <showResults>true</showResults>
+                        <inheritFreetext>false</inheritFreetext>
+                        <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                      </com.tle.beans.hierarchy.HierarchyTopic>
+                      <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../../../topic"/>
+                      <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../topic"/>
+                      <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+                      <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+                    </allParents>
+                    <listPosition>0</listPosition>
+                    <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+                    <keyResources/>
+                    <showResults>true</showResults>
+                    <freetext></freetext>
+                    <inheritFreetext>false</inheritFreetext>
+                    <addIdefs/>
+                    <addSchemas/>
+                    <inhIdefs>
+                      <com.tle.beans.ItemDefinitionScript>
+                        <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+                      </com.tle.beans.ItemDefinitionScript>
+                    </inhIdefs>
+                    <inhSchemas/>
+                    <virtualisationId>contributedValuesVirtualiser</virtualisationId>
+                    <virtualisationPath>/local/courseInfo/faculty</virtualisationPath>
+                    <name>
+                      <id>6167858</id>
+                      <strings>
+                        <entry>
+                          <string>en_US</string>
+                          <com.tle.beans.entity.LanguageString>
+                            <id>6167859</id>
+                            <locale>en_US</locale>
+                            <priority>2</priority>
+                            <text>%s</text>
+                            <bundle reference="../../../.."/>
+                          </com.tle.beans.entity.LanguageString>
+                        </entry>
+                      </strings>
+                    </name>
+                    <longDescription>
+                      <id>6167856</id>
+                      <strings>
+                        <entry>
+                          <string>en</string>
+                          <com.tle.beans.entity.LanguageString>
+                            <id>6167857</id>
+                            <locale>en</locale>
+                            <priority>1</priority>
+                            <text>... &lt;i&gt;&lt;strong&gt;semester &gt; course &gt; faculty&lt;/strong&gt;&lt;/i&gt;</text>
+                            <bundle reference="../../../.."/>
+                          </com.tle.beans.entity.LanguageString>
+                        </entry>
+                      </strings>
+                    </longDescription>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                    <attributes/>
+                  </topic>
+                  <children/>
+                  <targetList>
+                    <entries>
+                      <com.tle.common.security.TargetListEntry>
+                        <granted>true</granted>
+                        <override>false</override>
+                        <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                        <who>TPL_WHO</who>
+                        <postfix></postfix>
+                      </com.tle.common.security.TargetListEntry>
+                    </entries>
+                    <partial>false</partial>
+                  </targetList>
+                </com.tle.beans.hierarchy.ExportedHierarchyNode>
+              </children>
+              <targetList>
+                <entries>
+                  <com.tle.common.security.TargetListEntry>
+                    <granted>true</granted>
+                    <override>false</override>
+                    <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                    <who>TPL_WHO</who>
+                    <postfix></postfix>
+                  </com.tle.common.security.TargetListEntry>
+                </entries>
+                <partial>false</partial>
+              </targetList>
+            </com.tle.beans.hierarchy.ExportedHierarchyNode>
+          </children>
+          <targetList>
+            <entries>
+              <com.tle.common.security.TargetListEntry>
+                <granted>true</granted>
+                <override>false</override>
+                <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                <who>TPL_WHO</who>
+                <postfix></postfix>
+              </com.tle.common.security.TargetListEntry>
+            </entries>
+            <partial>false</partial>
+          </targetList>
+        </com.tle.beans.hierarchy.ExportedHierarchyNode>
+      </children>
+      <targetList>
+        <entries>
+          <com.tle.common.security.TargetListEntry>
+            <granted>true</granted>
+            <override>false</override>
+            <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+            <who>TPL_WHO</who>
+            <postfix></postfix>
+          </com.tle.common.security.TargetListEntry>
+        </entries>
+        <partial>false</partial>
+      </targetList>
+    </com.tle.beans.hierarchy.ExportedHierarchyNode>
+    <com.tle.beans.hierarchy.ExportedHierarchyNode>
+      <topic>
+        <id>6120459</id>
+        <uuid>1689cfd3-2a77-4dab-8f21-6cb20b5ce838</uuid>
+        <institution>
+          <id>1165188</id>
+          <uniqueId>0</uniqueId>
+          <quota>0.0</quota>
+          <enabled>true</enabled>
+        </institution>
+        <parent reference="../../../../topic"/>
+        <allParents>
+          <com.tle.beans.hierarchy.HierarchyTopic>
+            <id>3864695</id>
+            <allParents/>
+            <listPosition>0</listPosition>
+            <showResults>true</showResults>
+            <inheritFreetext>false</inheritFreetext>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+          </com.tle.beans.hierarchy.HierarchyTopic>
+          <com.tle.beans.hierarchy.HierarchyTopic>
+            <id>4106842</id>
+            <allParents/>
+            <listPosition>0</listPosition>
+            <showResults>true</showResults>
+            <inheritFreetext>false</inheritFreetext>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+          </com.tle.beans.hierarchy.HierarchyTopic>
+          <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+        </allParents>
+        <listPosition>1</listPosition>
+        <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+        <keyResources/>
+        <showResults>true</showResults>
+        <freetext></freetext>
+        <inheritFreetext>false</inheritFreetext>
+        <addIdefs/>
+        <addSchemas/>
+        <inhIdefs>
+          <com.tle.beans.ItemDefinitionScript>
+            <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+          </com.tle.beans.ItemDefinitionScript>
+        </inhIdefs>
+        <inhSchemas/>
+        <name>
+          <id>6167863</id>
+          <strings>
+            <entry>
+              <string>en_US</string>
+              <com.tle.beans.entity.LanguageString>
+                <id>6167864</id>
+                <locale>en_US</locale>
+                <priority>2</priority>
+                <text>Browse by course…</text>
+                <bundle reference="../../../.."/>
+              </com.tle.beans.entity.LanguageString>
+            </entry>
+          </strings>
+        </name>
+        <shortDescription>
+          <id>6167865</id>
+          <strings>
+            <entry>
+              <string>en</string>
+              <com.tle.beans.entity.LanguageString>
+                <id>6167866</id>
+                <locale>en</locale>
+                <priority>1</priority>
+                <text>... course &gt; faculty &gt; semester</text>
+                <bundle reference="../../../.."/>
+              </com.tle.beans.entity.LanguageString>
+            </entry>
+          </strings>
+        </shortDescription>
+        <longDescription>
+          <id>6167861</id>
+          <strings>
+            <entry>
+              <string>en</string>
+              <com.tle.beans.entity.LanguageString>
+                <id>6167862</id>
+                <locale>en</locale>
+                <priority>1</priority>
+                <text>... &lt;i&gt;&lt;strong&gt;course&lt;/strong&gt; &gt; faculty &gt; semester&lt;/i&gt;</text>
+                <bundle reference="../../../.."/>
+              </com.tle.beans.entity.LanguageString>
+            </entry>
+          </strings>
+        </longDescription>
+        <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+        <attributes/>
+      </topic>
+      <children>
+        <com.tle.beans.hierarchy.ExportedHierarchyNode>
+          <topic>
+            <id>6120546</id>
+            <uuid>4a251fd4-871b-4f7f-837a-a2a6ac010a95</uuid>
+            <institution>
+              <id>1165188</id>
+              <uniqueId>0</uniqueId>
+              <quota>0.0</quota>
+              <enabled>true</enabled>
+            </institution>
+            <parent reference="../../../../topic"/>
+            <allParents>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>3864695</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>4106842</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+            </allParents>
+            <listPosition>0</listPosition>
+            <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+            <keyResources/>
+            <showResults>true</showResults>
+            <freetext></freetext>
+            <inheritFreetext>true</inheritFreetext>
+            <addIdefs/>
+            <addSchemas/>
+            <inhIdefs>
+              <com.tle.beans.ItemDefinitionScript>
+                <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+              </com.tle.beans.ItemDefinitionScript>
+            </inhIdefs>
+            <inhSchemas/>
+            <virtualisationId>contributedValuesVirtualiser</virtualisationId>
+            <virtualisationPath>/local/courseInfo/course</virtualisationPath>
+            <name>
+              <id>6167868</id>
+              <strings>
+                <entry>
+                  <string>en_US</string>
+                  <com.tle.beans.entity.LanguageString>
+                    <id>6167869</id>
+                    <locale>en_US</locale>
+                    <priority>2</priority>
+                    <text>%s</text>
+                    <bundle reference="../../../.."/>
+                  </com.tle.beans.entity.LanguageString>
+                </entry>
+              </strings>
+            </name>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+            <attributes/>
+          </topic>
+          <children>
+            <com.tle.beans.hierarchy.ExportedHierarchyNode>
+              <topic>
+                <id>6120550</id>
+                <uuid>34a9b17e-54aa-412a-ac9e-1518496ae685</uuid>
+                <institution>
+                  <id>1165188</id>
+                  <uniqueId>0</uniqueId>
+                  <quota>0.0</quota>
+                  <enabled>true</enabled>
+                </institution>
+                <parent reference="../../../../topic"/>
+                <allParents>
+                  <com.tle.beans.hierarchy.HierarchyTopic>
+                    <id>3864695</id>
+                    <allParents/>
+                    <listPosition>0</listPosition>
+                    <showResults>true</showResults>
+                    <inheritFreetext>false</inheritFreetext>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                  </com.tle.beans.hierarchy.HierarchyTopic>
+                  <com.tle.beans.hierarchy.HierarchyTopic>
+                    <id>4106842</id>
+                    <allParents/>
+                    <listPosition>0</listPosition>
+                    <showResults>true</showResults>
+                    <inheritFreetext>false</inheritFreetext>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                  </com.tle.beans.hierarchy.HierarchyTopic>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+                </allParents>
+                <listPosition>0</listPosition>
+                <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+                <keyResources/>
+                <showResults>true</showResults>
+                <freetext></freetext>
+                <inheritFreetext>true</inheritFreetext>
+                <addIdefs/>
+                <addSchemas/>
+                <inhIdefs>
+                  <com.tle.beans.ItemDefinitionScript>
+                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+                  </com.tle.beans.ItemDefinitionScript>
+                </inhIdefs>
+                <inhSchemas/>
+                <virtualisationId>contributedValuesVirtualiser</virtualisationId>
+                <virtualisationPath>/local/courseInfo/faculty</virtualisationPath>
+                <name>
+                  <id>6167871</id>
+                  <strings>
+                    <entry>
+                      <string>en_US</string>
+                      <com.tle.beans.entity.LanguageString>
+                        <id>6167872</id>
+                        <locale>en_US</locale>
+                        <priority>2</priority>
+                        <text>%s</text>
+                        <bundle reference="../../../.."/>
+                      </com.tle.beans.entity.LanguageString>
+                    </entry>
+                  </strings>
+                </name>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                <attributes/>
+              </topic>
+              <children>
+                <com.tle.beans.hierarchy.ExportedHierarchyNode>
+                  <topic>
+                    <id>6120554</id>
+                    <uuid>cd3ee0cf-da42-4a25-8abe-aeb02f04f21f</uuid>
+                    <institution>
+                      <id>1165188</id>
+                      <uniqueId>0</uniqueId>
+                      <quota>0.0</quota>
+                      <enabled>true</enabled>
+                    </institution>
+                    <parent reference="../../../../topic"/>
+                    <allParents>
+                      <com.tle.beans.hierarchy.HierarchyTopic>
+                        <id>3864695</id>
+                        <allParents/>
+                        <listPosition>0</listPosition>
+                        <showResults>true</showResults>
+                        <inheritFreetext>false</inheritFreetext>
+                        <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                      </com.tle.beans.hierarchy.HierarchyTopic>
+                      <com.tle.beans.hierarchy.HierarchyTopic>
+                        <id>4106842</id>
+                        <allParents/>
+                        <listPosition>0</listPosition>
+                        <showResults>true</showResults>
+                        <inheritFreetext>false</inheritFreetext>
+                        <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                      </com.tle.beans.hierarchy.HierarchyTopic>
+                      <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../../../topic"/>
+                      <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../topic"/>
+                      <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+                      <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+                    </allParents>
+                    <listPosition>0</listPosition>
+                    <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+                    <keyResources/>
+                    <showResults>true</showResults>
+                    <freetext></freetext>
+                    <inheritFreetext>true</inheritFreetext>
+                    <addIdefs/>
+                    <addSchemas/>
+                    <inhIdefs>
+                      <com.tle.beans.ItemDefinitionScript>
+                        <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+                      </com.tle.beans.ItemDefinitionScript>
+                    </inhIdefs>
+                    <inhSchemas/>
+                    <virtualisationId>contributedValuesVirtualiser</virtualisationId>
+                    <virtualisationPath>/local/courseInfo/semester</virtualisationPath>
+                    <name>
+                      <id>6167875</id>
+                      <strings>
+                        <entry>
+                          <string>en_US</string>
+                          <com.tle.beans.entity.LanguageString>
+                            <id>6167876</id>
+                            <locale>en_US</locale>
+                            <priority>2</priority>
+                            <text>%s</text>
+                            <bundle reference="../../../.."/>
+                          </com.tle.beans.entity.LanguageString>
+                        </entry>
+                      </strings>
+                    </name>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                    <attributes/>
+                  </topic>
+                  <children/>
+                  <targetList>
+                    <entries>
+                      <com.tle.common.security.TargetListEntry>
+                        <granted>true</granted>
+                        <override>false</override>
+                        <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                        <who>TPL_WHO</who>
+                        <postfix></postfix>
+                      </com.tle.common.security.TargetListEntry>
+                    </entries>
+                    <partial>false</partial>
+                  </targetList>
+                </com.tle.beans.hierarchy.ExportedHierarchyNode>
+              </children>
+              <targetList>
+                <entries>
+                  <com.tle.common.security.TargetListEntry>
+                    <granted>true</granted>
+                    <override>false</override>
+                    <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                    <who>TPL_WHO</who>
+                    <postfix></postfix>
+                  </com.tle.common.security.TargetListEntry>
+                </entries>
+                <partial>false</partial>
+              </targetList>
+            </com.tle.beans.hierarchy.ExportedHierarchyNode>
+          </children>
+          <targetList>
+            <entries>
+              <com.tle.common.security.TargetListEntry>
+                <granted>true</granted>
+                <override>false</override>
+                <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                <who>TPL_WHO</who>
+                <postfix></postfix>
+              </com.tle.common.security.TargetListEntry>
+            </entries>
+            <partial>false</partial>
+          </targetList>
+        </com.tle.beans.hierarchy.ExportedHierarchyNode>
+      </children>
+      <targetList>
+        <entries>
+          <com.tle.common.security.TargetListEntry>
+            <granted>true</granted>
+            <override>false</override>
+            <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+            <who>TPL_WHO</who>
+            <postfix></postfix>
+          </com.tle.common.security.TargetListEntry>
+        </entries>
+        <partial>false</partial>
+      </targetList>
+    </com.tle.beans.hierarchy.ExportedHierarchyNode>
+    <com.tle.beans.hierarchy.ExportedHierarchyNode>
+      <topic>
+        <id>7026926</id>
+        <uuid>2da4ee57-0419-4296-91fa-1d4d56efee5b</uuid>
+        <institution>
+          <id>1165188</id>
+          <uniqueId>0</uniqueId>
+          <quota>0.0</quota>
+          <enabled>true</enabled>
+        </institution>
+        <parent reference="../../../../topic"/>
+        <allParents>
+          <com.tle.beans.hierarchy.HierarchyTopic>
+            <id>3864695</id>
+            <allParents/>
+            <listPosition>0</listPosition>
+            <showResults>true</showResults>
+            <inheritFreetext>false</inheritFreetext>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+          </com.tle.beans.hierarchy.HierarchyTopic>
+          <com.tle.beans.hierarchy.HierarchyTopic>
+            <id>4106842</id>
+            <allParents/>
+            <listPosition>0</listPosition>
+            <showResults>true</showResults>
+            <inheritFreetext>false</inheritFreetext>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+          </com.tle.beans.hierarchy.HierarchyTopic>
+          <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+        </allParents>
+        <listPosition>2</listPosition>
+        <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+        <keyResources/>
+        <showResults>true</showResults>
+        <freetext></freetext>
+        <inheritFreetext>false</inheritFreetext>
+        <addIdefs>
+          <com.tle.beans.ItemDefinitionScript>
+            <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+          </com.tle.beans.ItemDefinitionScript>
+        </addIdefs>
+        <addSchemas/>
+        <inhIdefs/>
+        <inhSchemas/>
+        <name>
+          <id>7026954</id>
+          <strings>
+            <entry>
+              <string>en_US</string>
+              <com.tle.beans.entity.LanguageString>
+                <id>7026955</id>
+                <locale>en_US</locale>
+                <priority>2</priority>
+                <text>Browse rated work...</text>
+                <bundle reference="../../../.."/>
+              </com.tle.beans.entity.LanguageString>
+            </entry>
+          </strings>
+        </name>
+        <hideSubtopicsWithNoResults>false</hideSubtopicsWithNoResults>
+        <attributes/>
+      </topic>
+      <children>
+        <com.tle.beans.hierarchy.ExportedHierarchyNode>
+          <topic>
+            <id>7026930</id>
+            <uuid>81b9aa15-0056-461d-a3c2-d80432751056</uuid>
+            <institution>
+              <id>1165188</id>
+              <uniqueId>0</uniqueId>
+              <quota>0.0</quota>
+              <enabled>true</enabled>
+            </institution>
+            <parent reference="../../../../topic"/>
+            <allParents>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>3864695</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>4106842</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+            </allParents>
+            <listPosition>0</listPosition>
+            <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+            <keyResources/>
+            <showResults>true</showResults>
+            <freetext></freetext>
+            <inheritFreetext>true</inheritFreetext>
+            <addIdefs>
+              <com.tle.beans.ItemDefinitionScript>
+                <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+                <script>/xml/local/rating = &apos;High&apos; </script>
+              </com.tle.beans.ItemDefinitionScript>
+            </addIdefs>
+            <addSchemas/>
+            <inhIdefs/>
+            <inhSchemas/>
+            <name>
+              <id>7026958</id>
+              <strings>
+                <entry>
+                  <string>en_US</string>
+                  <com.tle.beans.entity.LanguageString>
+                    <id>7026959</id>
+                    <locale>en_US</locale>
+                    <priority>2</priority>
+                    <text>High</text>
+                    <bundle reference="../../../.."/>
+                  </com.tle.beans.entity.LanguageString>
+                </entry>
+              </strings>
+            </name>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+            <attributes/>
+          </topic>
+          <children>
+            <com.tle.beans.hierarchy.ExportedHierarchyNode>
+              <topic>
+                <id>7026934</id>
+                <uuid>05dc4d4c-f69a-4591-bc4e-f83219047ebd</uuid>
+                <institution>
+                  <id>1165188</id>
+                  <uniqueId>0</uniqueId>
+                  <quota>0.0</quota>
+                  <enabled>true</enabled>
+                </institution>
+                <parent reference="../../../../topic"/>
+                <allParents>
+                  <com.tle.beans.hierarchy.HierarchyTopic>
+                    <id>3864695</id>
+                    <allParents/>
+                    <listPosition>0</listPosition>
+                    <showResults>true</showResults>
+                    <inheritFreetext>false</inheritFreetext>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                  </com.tle.beans.hierarchy.HierarchyTopic>
+                  <com.tle.beans.hierarchy.HierarchyTopic>
+                    <id>4106842</id>
+                    <allParents/>
+                    <listPosition>0</listPosition>
+                    <showResults>true</showResults>
+                    <inheritFreetext>false</inheritFreetext>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                  </com.tle.beans.hierarchy.HierarchyTopic>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+                </allParents>
+                <listPosition>0</listPosition>
+                <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+                <keyResources/>
+                <showResults>true</showResults>
+                <freetext></freetext>
+                <inheritFreetext>true</inheritFreetext>
+                <addIdefs/>
+                <addSchemas/>
+                <inhIdefs>
+                  <com.tle.beans.ItemDefinitionScript>
+                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="55d9d02d-7e61-49e7-8ec5-ebbb938480d7"/>
+                  </com.tle.beans.ItemDefinitionScript>
+                </inhIdefs>
+                <inhSchemas/>
+                <virtualisationId>contributedValuesVirtualiser</virtualisationId>
+                <virtualisationPath>/local/courseInfo/semester</virtualisationPath>
+                <name>
+                  <id>7026935</id>
+                  <strings>
+                    <entry>
+                      <string>en_US</string>
+                      <com.tle.beans.entity.LanguageString>
+                        <id>7026936</id>
+                        <locale>en_US</locale>
+                        <priority>2</priority>
+                        <text>%s</text>
+                        <bundle reference="../../../.."/>
+                      </com.tle.beans.entity.LanguageString>
+                    </entry>
+                  </strings>
+                </name>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                <attributes/>
+              </topic>
+              <children/>
+              <targetList>
+                <entries>
+                  <com.tle.common.security.TargetListEntry>
+                    <granted>true</granted>
+                    <override>false</override>
+                    <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                    <who>TPL_WHO</who>
+                    <postfix></postfix>
+                  </com.tle.common.security.TargetListEntry>
+                </entries>
+                <partial>false</partial>
+              </targetList>
+            </com.tle.beans.hierarchy.ExportedHierarchyNode>
+          </children>
+          <targetList>
+            <entries>
+              <com.tle.common.security.TargetListEntry>
+                <granted>true</granted>
+                <override>false</override>
+                <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                <who>TPL_WHO</who>
+                <postfix></postfix>
+              </com.tle.common.security.TargetListEntry>
+            </entries>
+            <partial>false</partial>
+          </targetList>
+        </com.tle.beans.hierarchy.ExportedHierarchyNode>
+        <com.tle.beans.hierarchy.ExportedHierarchyNode>
+          <topic>
+            <id>7026938</id>
+            <uuid>62b27d8a-8a00-4427-9e12-c5ebd525cc38</uuid>
+            <institution>
+              <id>1165188</id>
+              <uniqueId>0</uniqueId>
+              <quota>0.0</quota>
+              <enabled>true</enabled>
+            </institution>
+            <parent reference="../../../../topic"/>
+            <allParents>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>3864695</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>4106842</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+            </allParents>
+            <listPosition>1</listPosition>
+            <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+            <keyResources/>
+            <showResults>true</showResults>
+            <freetext></freetext>
+            <inheritFreetext>false</inheritFreetext>
+            <addIdefs>
+              <com.tle.beans.ItemDefinitionScript>
+                <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+                <script>/xml/local/rating = &apos;Medium&apos; </script>
+              </com.tle.beans.ItemDefinitionScript>
+            </addIdefs>
+            <addSchemas/>
+            <inhIdefs/>
+            <inhSchemas/>
+            <name>
+              <id>7026974</id>
+              <strings>
+                <entry>
+                  <string>en_US</string>
+                  <com.tle.beans.entity.LanguageString>
+                    <id>7026975</id>
+                    <locale>en_US</locale>
+                    <priority>2</priority>
+                    <text>Medium</text>
+                    <bundle reference="../../../.."/>
+                  </com.tle.beans.entity.LanguageString>
+                </entry>
+              </strings>
+            </name>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+            <attributes/>
+          </topic>
+          <children>
+            <com.tle.beans.hierarchy.ExportedHierarchyNode>
+              <topic>
+                <id>7026942</id>
+                <uuid>6ad6bf6c-6127-4c2d-b93c-6a7339b8e1f3</uuid>
+                <institution>
+                  <id>1165188</id>
+                  <uniqueId>0</uniqueId>
+                  <quota>0.0</quota>
+                  <enabled>true</enabled>
+                </institution>
+                <parent reference="../../../../topic"/>
+                <allParents>
+                  <com.tle.beans.hierarchy.HierarchyTopic>
+                    <id>3864695</id>
+                    <allParents/>
+                    <listPosition>0</listPosition>
+                    <showResults>true</showResults>
+                    <inheritFreetext>false</inheritFreetext>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                  </com.tle.beans.hierarchy.HierarchyTopic>
+                  <com.tle.beans.hierarchy.HierarchyTopic>
+                    <id>4106842</id>
+                    <allParents/>
+                    <listPosition>0</listPosition>
+                    <showResults>true</showResults>
+                    <inheritFreetext>false</inheritFreetext>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                  </com.tle.beans.hierarchy.HierarchyTopic>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+                </allParents>
+                <listPosition>0</listPosition>
+                <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+                <keyResources/>
+                <showResults>true</showResults>
+                <freetext></freetext>
+                <inheritFreetext>true</inheritFreetext>
+                <addIdefs/>
+                <addSchemas/>
+                <inhIdefs>
+                  <com.tle.beans.ItemDefinitionScript>
+                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="55d9d02d-7e61-49e7-8ec5-ebbb938480d7"/>
+                  </com.tle.beans.ItemDefinitionScript>
+                </inhIdefs>
+                <inhSchemas/>
+                <virtualisationId>contributedValuesVirtualiser</virtualisationId>
+                <virtualisationPath>/local/courseInfo/semester</virtualisationPath>
+                <name>
+                  <id>7026965</id>
+                  <strings>
+                    <entry>
+                      <string>en_US</string>
+                      <com.tle.beans.entity.LanguageString>
+                        <id>7026966</id>
+                        <locale>en_US</locale>
+                        <priority>2</priority>
+                        <text>%s</text>
+                        <bundle reference="../../../.."/>
+                      </com.tle.beans.entity.LanguageString>
+                    </entry>
+                  </strings>
+                </name>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                <attributes/>
+              </topic>
+              <children/>
+              <targetList>
+                <entries>
+                  <com.tle.common.security.TargetListEntry>
+                    <granted>true</granted>
+                    <override>false</override>
+                    <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                    <who>TPL_WHO</who>
+                    <postfix></postfix>
+                  </com.tle.common.security.TargetListEntry>
+                </entries>
+                <partial>false</partial>
+              </targetList>
+            </com.tle.beans.hierarchy.ExportedHierarchyNode>
+          </children>
+          <targetList>
+            <entries>
+              <com.tle.common.security.TargetListEntry>
+                <granted>true</granted>
+                <override>false</override>
+                <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                <who>TPL_WHO</who>
+                <postfix></postfix>
+              </com.tle.common.security.TargetListEntry>
+            </entries>
+            <partial>false</partial>
+          </targetList>
+        </com.tle.beans.hierarchy.ExportedHierarchyNode>
+        <com.tle.beans.hierarchy.ExportedHierarchyNode>
+          <topic>
+            <id>7026946</id>
+            <uuid>e52dae0c-c308-4d8e-9fd5-adfdd1ce00ca</uuid>
+            <institution>
+              <id>1165188</id>
+              <uniqueId>0</uniqueId>
+              <quota>0.0</quota>
+              <enabled>true</enabled>
+            </institution>
+            <parent reference="../../../../topic"/>
+            <allParents>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>3864695</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>4106842</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+            </allParents>
+            <listPosition>2</listPosition>
+            <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+            <keyResources/>
+            <showResults>true</showResults>
+            <freetext></freetext>
+            <inheritFreetext>true</inheritFreetext>
+            <addIdefs>
+              <com.tle.beans.ItemDefinitionScript>
+                <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+                <script>/xml/local/rating = &apos;Low&apos; </script>
+              </com.tle.beans.ItemDefinitionScript>
+            </addIdefs>
+            <addSchemas/>
+            <inhIdefs/>
+            <inhSchemas/>
+            <name>
+              <id>7026977</id>
+              <strings>
+                <entry>
+                  <string>en_US</string>
+                  <com.tle.beans.entity.LanguageString>
+                    <id>7026978</id>
+                    <locale>en_US</locale>
+                    <priority>2</priority>
+                    <text>Low</text>
+                    <bundle reference="../../../.."/>
+                  </com.tle.beans.entity.LanguageString>
+                </entry>
+              </strings>
+            </name>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+            <attributes/>
+          </topic>
+          <children>
+            <com.tle.beans.hierarchy.ExportedHierarchyNode>
+              <topic>
+                <id>7026950</id>
+                <uuid>467ae0dd-2c7b-49f3-bb37-9b152896e5ce</uuid>
+                <institution>
+                  <id>1165188</id>
+                  <uniqueId>0</uniqueId>
+                  <quota>0.0</quota>
+                  <enabled>true</enabled>
+                </institution>
+                <parent reference="../../../../topic"/>
+                <allParents>
+                  <com.tle.beans.hierarchy.HierarchyTopic>
+                    <id>3864695</id>
+                    <allParents/>
+                    <listPosition>0</listPosition>
+                    <showResults>true</showResults>
+                    <inheritFreetext>false</inheritFreetext>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                  </com.tle.beans.hierarchy.HierarchyTopic>
+                  <com.tle.beans.hierarchy.HierarchyTopic>
+                    <id>4106842</id>
+                    <allParents/>
+                    <listPosition>0</listPosition>
+                    <showResults>true</showResults>
+                    <inheritFreetext>false</inheritFreetext>
+                    <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                  </com.tle.beans.hierarchy.HierarchyTopic>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+                  <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+                </allParents>
+                <listPosition>0</listPosition>
+                <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+                <keyResources/>
+                <showResults>true</showResults>
+                <freetext></freetext>
+                <inheritFreetext>true</inheritFreetext>
+                <addIdefs/>
+                <addSchemas/>
+                <inhIdefs>
+                  <com.tle.beans.ItemDefinitionScript>
+                    <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="55d9d02d-7e61-49e7-8ec5-ebbb938480d7"/>
+                  </com.tle.beans.ItemDefinitionScript>
+                </inhIdefs>
+                <inhSchemas/>
+                <virtualisationId>contributedValuesVirtualiser</virtualisationId>
+                <virtualisationPath>/local/courseInfo/semester</virtualisationPath>
+                <name>
+                  <id>7026968</id>
+                  <strings>
+                    <entry>
+                      <string>en_US</string>
+                      <com.tle.beans.entity.LanguageString>
+                        <id>7026969</id>
+                        <locale>en_US</locale>
+                        <priority>2</priority>
+                        <text>%s</text>
+                        <bundle reference="../../../.."/>
+                      </com.tle.beans.entity.LanguageString>
+                    </entry>
+                  </strings>
+                </name>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+                <attributes/>
+              </topic>
+              <children/>
+              <targetList>
+                <entries>
+                  <com.tle.common.security.TargetListEntry>
+                    <granted>true</granted>
+                    <override>false</override>
+                    <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                    <who>TPL_WHO</who>
+                    <postfix></postfix>
+                  </com.tle.common.security.TargetListEntry>
+                </entries>
+                <partial>false</partial>
+              </targetList>
+            </com.tle.beans.hierarchy.ExportedHierarchyNode>
+          </children>
+          <targetList>
+            <entries>
+              <com.tle.common.security.TargetListEntry>
+                <granted>true</granted>
+                <override>false</override>
+                <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                <who>TPL_WHO</who>
+                <postfix></postfix>
+              </com.tle.common.security.TargetListEntry>
+            </entries>
+            <partial>false</partial>
+          </targetList>
+        </com.tle.beans.hierarchy.ExportedHierarchyNode>
+      </children>
+      <targetList>
+        <entries>
+          <com.tle.common.security.TargetListEntry>
+            <granted>true</granted>
+            <override>false</override>
+            <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+            <who>TPL_WHO</who>
+            <postfix></postfix>
+          </com.tle.common.security.TargetListEntry>
+        </entries>
+        <partial>false</partial>
+      </targetList>
+    </com.tle.beans.hierarchy.ExportedHierarchyNode>
+    <com.tle.beans.hierarchy.ExportedHierarchyNode>
+      <topic>
+        <id>7876307</id>
+        <uuid>b01210ad-730a-4669-a69e-c399315db8e0</uuid>
+        <institution>
+          <id>1165188</id>
+          <uniqueId>0</uniqueId>
+          <quota>0.0</quota>
+          <enabled>true</enabled>
+        </institution>
+        <parent reference="../../../../topic"/>
+        <allParents>
+          <com.tle.beans.hierarchy.HierarchyTopic>
+            <id>3864695</id>
+            <allParents/>
+            <listPosition>0</listPosition>
+            <showResults>true</showResults>
+            <inheritFreetext>false</inheritFreetext>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+          </com.tle.beans.hierarchy.HierarchyTopic>
+          <com.tle.beans.hierarchy.HierarchyTopic>
+            <id>4106842</id>
+            <allParents/>
+            <listPosition>0</listPosition>
+            <showResults>true</showResults>
+            <inheritFreetext>false</inheritFreetext>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+          </com.tle.beans.hierarchy.HierarchyTopic>
+          <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+        </allParents>
+        <listPosition>3</listPosition>
+        <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+        <keyResources/>
+        <showResults>true</showResults>
+        <freetext></freetext>
+        <inheritFreetext>true</inheritFreetext>
+        <addIdefs>
+          <com.tle.beans.ItemDefinitionScript>
+            <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+          </com.tle.beans.ItemDefinitionScript>
+        </addIdefs>
+        <addSchemas/>
+        <inhIdefs/>
+        <inhSchemas/>
+        <name>
+          <id>7876339</id>
+          <strings>
+            <entry>
+              <string>en_US</string>
+              <com.tle.beans.entity.LanguageString>
+                <id>7876340</id>
+                <locale>en_US</locale>
+                <priority>2</priority>
+                <text>Browse by sharing level</text>
+                <bundle reference="../../../.."/>
+              </com.tle.beans.entity.LanguageString>
+            </entry>
+          </strings>
+        </name>
+        <shortDescription>
+          <id>7876341</id>
+          <strings>
+            <entry>
+              <string>en</string>
+              <com.tle.beans.entity.LanguageString>
+                <id>7876342</id>
+                <locale>en</locale>
+                <priority>1</priority>
+                <text>... shared with division-only faculty &gt; all faculty &gt; communications</text>
+                <bundle reference="../../../.."/>
+              </com.tle.beans.entity.LanguageString>
+            </entry>
+          </strings>
+        </shortDescription>
+        <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+        <attributes/>
+      </topic>
+      <children>
+        <com.tle.beans.hierarchy.ExportedHierarchyNode>
+          <topic>
+            <id>7876347</id>
+            <uuid>f05d4ff3-1f69-4d01-946f-38d01c74a7a0</uuid>
+            <institution>
+              <id>1165188</id>
+              <uniqueId>0</uniqueId>
+              <quota>0.0</quota>
+              <enabled>true</enabled>
+            </institution>
+            <parent reference="../../../../topic"/>
+            <allParents>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>3864695</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic>
+                <id>4106842</id>
+                <allParents/>
+                <listPosition>0</listPosition>
+                <showResults>true</showResults>
+                <inheritFreetext>false</inheritFreetext>
+                <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+              </com.tle.beans.hierarchy.HierarchyTopic>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../../../topic"/>
+              <com.tle.beans.hierarchy.HierarchyTopic reference="../../../../../topic"/>
+            </allParents>
+            <listPosition>0</listPosition>
+            <advancedSearch entityclass="com.tle.beans.entity.PowerSearch" uuid="3ee81fed-6f99-4179-a7b9-d7e96ca6d4c3"/>
+            <keyResources/>
+            <showResults>true</showResults>
+            <freetext></freetext>
+            <inheritFreetext>true</inheritFreetext>
+            <addIdefs>
+              <com.tle.beans.ItemDefinitionScript>
+                <entity entityclass="com.tle.beans.entity.itemdef.ItemDefinition" uuid="TPL_COLLECTION_UUID"/>
+              </com.tle.beans.ItemDefinitionScript>
+            </addIdefs>
+            <addSchemas/>
+            <inhIdefs/>
+            <inhSchemas/>
+            <virtualisationId>contributedValuesVirtualiser</virtualisationId>
+            <virtualisationPath>/local/viewLevel</virtualisationPath>
+            <name>
+              <id>7876357</id>
+              <strings>
+                <entry>
+                  <string>en_US</string>
+                  <com.tle.beans.entity.LanguageString>
+                    <id>7876358</id>
+                    <locale>en_US</locale>
+                    <priority>2</priority>
+                    <text>%s</text>
+                    <bundle reference="../../../.."/>
+                  </com.tle.beans.entity.LanguageString>
+                </entry>
+              </strings>
+            </name>
+            <hideSubtopicsWithNoResults>true</hideSubtopicsWithNoResults>
+            <attributes/>
+          </topic>
+          <children/>
+          <targetList>
+            <entries>
+              <com.tle.common.security.TargetListEntry>
+                <granted>true</granted>
+                <override>false</override>
+                <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+                <who>TPL_WHO</who>
+                <postfix></postfix>
+              </com.tle.common.security.TargetListEntry>
+            </entries>
+            <partial>false</partial>
+          </targetList>
+        </com.tle.beans.hierarchy.ExportedHierarchyNode>
+      </children>
+      <targetList>
+        <entries>
+          <com.tle.common.security.TargetListEntry>
+            <granted>true</granted>
+            <override>false</override>
+            <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+            <who>TPL_WHO</who>
+            <postfix></postfix>
+          </com.tle.common.security.TargetListEntry>
+        </entries>
+        <partial>false</partial>
+      </targetList>
+    </com.tle.beans.hierarchy.ExportedHierarchyNode>
+  </children>
+  <targetList>
+    <entries>
+      <com.tle.common.security.TargetListEntry>
+        <granted>true</granted>
+        <override>false</override>
+        <privilege>VIEW_HIERARCHY_TOPIC</privilege>
+        <who>TPL_WHO</who>
+        <postfix></postfix>
+      </com.tle.common.security.TargetListEntry>
+    </entries>
+    <partial>false</partial>
+  </targetList>
+</com.tle.beans.hierarchy.ExportedHierarchyNode>

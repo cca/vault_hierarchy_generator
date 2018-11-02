@@ -1,4 +1,5 @@
 replacements.js
 node_modules/
 *.xml
-!template.xml
+!external-review-template.xml
+!student-work-template.xml
