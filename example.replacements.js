@@ -1,3 +1,4 @@
+// this is a JS file not JSON just so there can be comments
 module.exports = {
     // this is always the same
     'college-admin-id': '98058527-dcc9-4a65-8f11-f844d335ffaf',
