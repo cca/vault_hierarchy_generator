@@ -1,4 +1,4 @@
-# VAULT External Review Hierarchy Generator
+# OpenEQUELLA Hierarchy Generator
 
 Generate a new external review or student work hierarchy for [VAULT](https://vault.cca.edu) from an existing one by dictating values (e.g. role UUIDs, program name, semester) to fill into a template's XML.
 
@@ -6,7 +6,13 @@ Generate a new external review or student work hierarchy for [VAULT](https://vau
 > node index > program-review.xml
 ```
 
-## Setup
+## How does it work?
+
+One can export hierarchy objects from OpenEQUELLA using the admin console. These objects are large XML documents with strings, scripts, permissions, and collection UUIDs present in them. By replacing specific values with template strings like `TPL_COLLECTION_UUID` we can then run a script that populates the XML template with new values, essentially cloning a hierarchy but adjusting all its values slightly. When the new hierarchy is imported into OpenEQUELLA, it will ask if you want to overwrite the old one or create a new hierarchy object (typically desirable).
+
+This tool was designed with external reviews in mind but can be used for any hierarchy—see the "student-work-template.xml" which creates hierarchies suitable for the Student Work folders in VAULT.
+
+## Software Setup
 
 Install node & npm, then install all npm dependencies from inside this directory.
 
