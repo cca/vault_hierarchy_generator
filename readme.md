@@ -8,7 +8,7 @@ Generate a new external review or student work hierarchy for [VAULT](https://vau
 
 ## How does it work?
 
-One can export hierarchy objects from OpenEQUELLA using the admin console. These objects are large XML documents with strings, scripts, permissions, and collection UUIDs present in them. By replacing specific values with template strings like `TPL_COLLECTION_UUID` we can then run a script that populates the XML template with new values, essentially cloning a hierarchy but adjusting all its values slightly. When the new hierarchy is imported into OpenEQUELLA, it will ask if you want to overwrite the old one or create a new hierarchy object (typically desirable).
+One can export hierarchy objects from OpenEQUELLA using the admin console. These objects are large XML documents with strings, scripts, permissions, and collection UUIDs present in them. By replacing specific values with template strings like `TPL_COLLECTION_UUID` we can then run a script that populates the XML template with new values, essentially cloning a hierarchy but adjusting all its values slightly. When the new hierarchy created from a template is imported into OpenEQUELLA, it will ask "do you wish to create the tree with new UUIDs?" which prevents the old hierarchy (the basis for the template) from being overwritten.
 
 This tool was designed with external reviews in mind but can be used for any hierarchy—see the "student-work-template.xml" which creates hierarchies suitable for the Student Work folders in VAULT. If a particular template string doesn't appear in a template, it will be ignored (e.g. "semester" isn't relevant for Student Work hierarchies).
 
