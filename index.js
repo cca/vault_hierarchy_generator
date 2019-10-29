@@ -1,5 +1,5 @@
 // load options, set defaults
-var opts = require('rc')('app', {
+let opts = require('rc')('app', {
     'replacements': 'replacements.js',
     'template': 'template.xml'
 })
@@ -13,24 +13,30 @@ if (opts.h || opts.help) {
     process.exit(0)
 }
 
-// load replacement strings & name of template file
-var replacements = require(__dirname + '/' + (opts.r || opts.replacements))
-var template = opts.t || opts.template
-var fs = require('fs')
-var replaceStream = require('replaceStream')
+const path = require("path")
+const fs = require('fs')
+const replaceStream = require('replaceStream')
+// load replacement strings
+const replacements = require(path.join(__dirname, opts.r || opts.replacements))
 
-fs.createReadStream(template)
+fs.createReadStream(opts.t || opts.template)
     // perform replacements
     .pipe(replaceStream('TPL_COLLECTION_UUID', replacements['collection-id']))
     .pipe(replaceStream('TPL_PROGRAM', replacements.program))
     .pipe(replaceStream('TPL_SEMESTER', replacements.semester))
     // do all role UUIDs replacements in one fell swoop
     .pipe(replaceStream('TPL_WHO', (match) => {
-        var acl = `R:${replacements['program-admin-id']} R:${replacements['college-admin-id']} OR R:${replacements['division-admin-id']} OR R:${replacements['external-reviewer-id']} OR `
-        // may not have a work study UUID
-        if (replacements['work-study-id']) {
-            acl += `R:${replacements['work-study-id']} OR `
-        }
+        // add all the non-empty role IDs to a single access control list
+        let acl = [
+        'program-admin-id',
+        'college-admin-id',
+        'division-admin-id',
+        'external-reviewer-id',
+        'work-study-id',
+            ].reduce((acl, role) => {
+                if (!!replacements[role]) return acl + `R:${replacements[role]} OR `
+                return acl
+            }, '')
         return acl
     }))
     .pipe(process.stdout)
