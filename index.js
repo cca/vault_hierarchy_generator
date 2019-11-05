@@ -21,7 +21,7 @@ const replacements = require(path.join(__dirname, opts.r || opts.replacements))
 
 // add all the non-empty role IDs to a single access control list
 // ACLs look like "R:{UUID} R:{UUID} OR R:{UUID} OR" so note that they a) do not
-// have a separating "OR" between 2nd & 3rd entries, b) end in an orphan "OR"
+// have a separating "OR" between 1st & 2nd entries, b) end in an orphan "OR"
 let buildACL = (replacements) => {
     let acl = [
     'program-admin-id',
@@ -44,6 +44,5 @@ fs.createReadStream(opts.t || opts.template)
     .pipe(replaceStream('TPL_COLLECTION_UUID', replacements['collection-id']))
     .pipe(replaceStream('TPL_PROGRAM', replacements.program))
     .pipe(replaceStream('TPL_SEMESTER', replacements.semester))
-    // do all role UUIDs replacements in one fell swoop
-    .pipe(replaceStream('TPL_WHO', (match) => buildACL(replacements)))
+    .pipe(replaceStream('TPL_WHO', buildACL(replacements)))
     .pipe(process.stdout)
